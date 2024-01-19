@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Team 201's Self Adjusting Temperature Cup
 ---
 
 # Home
