@@ -1,8 +1,6 @@
 ---
-title: Self Adjusting Temperature Cup
+title: Self Adjusting Temperature Cup | Team 201 | Spring 2024
 ---      
-        Team 201 | Spring 2024
----
 
 # Home
 
