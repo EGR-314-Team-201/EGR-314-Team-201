@@ -3,24 +3,27 @@ title: Home
 ---      
 
 # Home
-Cup Warmer/Cooler\
-EGR 314 Team 201 Spring 2024\
+
+Cup Warmer/Cooler
+EGR 314 Team 201 Spring 2024
 Team Members: Erik Alegria, Hunter Janisch, Joseph Pelle, Houyu Zhang
+Preparatiion Date: 1/26/2024
+ASU Poly, EGR 314 Mon/Wed, Dr. Kelly
 
 ## Team Organization
-Our mission is to design a cutting-edge mobile weather station, integrating serial sensors and actuation for dynamic environmental response. We are committed to sensing at least two environmental conditions with precision, utilizing advanced motor control protocols. Our goal is to not only meet academic requirements but to pioneer innovative, impactful solutions in environmental monitoring, broadcasting valuable data over the internet through MQTT. Join us in shaping a future where technology leads to a smarter world.
+Team Goals:
+* Create a functional, safe, and reliable design.
+* Develop an attractive design.
+* Establish a dependable design.
+* Give priority to safety.
+* Craft a user-friendly design.
+* Implement quality assurance for both the design prototype and the final product.
 
-## Research Question
+Our goal is to design a cup able to detect temperature in a drink and be able to regulate its temperature using serial sensor and outside actuators. Our goal is to not only meet academic requirements but to pioneer innovative, impactful solutions in environmental monitoring, broadcasting valuable data over the internet through MQTT. Join us in shaping a future where technology leads to a smarter world.
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+We came to the conclusion to make this our mission statement because ...
 
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background.md)
+[Rest of Team Organization](/background.md)
 
 ## Results
 
