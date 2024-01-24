@@ -25,7 +25,7 @@ We came to the conclusion to make this our mission statement because ...
 
 [Rest of Team Organization](/TeamOrganization.md)
 
-## Results
+## User Needs
 
 1. Numbered Point 1
 1. Numbered Point 2
