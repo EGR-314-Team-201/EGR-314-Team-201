@@ -59,12 +59,12 @@ Houyu Zhang: Assignment editor/finalizer
 ## Accountability
 Our approach involves assigning responsibilities to each role in a flexible manner, facilitating easy reassignment as required. Initially, roles were determined on a voluntary basis, with the first team member volunteering for a role being assigned that responsibility. Additionally, we can interchange roles as necessary. In our meetings, we discuss and identify team members who require assistance and the specific support needed.
 
-Team Coordination & Accountability:
+### Team Coordination & Accountability:
 * Each and every assignment will undergo a review process with the team as a whole. The group will decide whether or not an assignment is complete and is ready for submission. If a team member objects to an assignment submission, it will go through a review process that breaks down the assignment by every detail, making sure that it is complete and ready to be submitted.
 * Skill and knowledge of an assignment will be verbally distributed either in-person or remotely. If a team member feels that they don’t have the skill and knowledge to complete a task, the team will comprise the workload in order to complete the assignment by the assigned deadline.
 * Any feedback that is presented to the group will be distributed to every team member to ensure that the entire team is on the same page. If a team member is absent either in class or during a meeting time, information will be passed down to that individual. 
 
-Upon identifying an underperforming team member:
+### Upon identifying an underperforming team member:
 * A team meeting will be convened to address concerns and communicate observations.
 * The team will discuss the impact of the underperformance and collaboratively problem-solve.
 * Support will be provided to aid the team members in overcoming challenges.
@@ -72,7 +72,7 @@ Upon identifying an underperforming team member:
 * Future communication will be encouraged to foster an open dialogue.
 * Follow-up sessions will be conducted to ensure the team member is on track and making progress.
 
-In the event that improvement is not observed:
+### In the event that improvement is not observed:
 * Consequences may include formal measures such as a Performance Improvement Plan (PIP) or, ultimately, termination from the team (e.g., pink slip).
 * If the team member facing performance challenges does not exhibit improvement, we will initiate a Performance Improvement Plan (PIP), akin to a formal warning. The PIP will be a systematic strategy detailing explicit performance expectations, identified areas for enhancement, and a set timeline for progress. Failure to meet the outlined goals within the PIP will prompt a discussion with the Professor, ultimately leading to termination from the team.
 
