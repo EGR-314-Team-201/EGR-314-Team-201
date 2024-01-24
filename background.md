@@ -1,5 +1,5 @@
 ---
-title: EGR 314 - Team 201
+title: Background
 ---
 
 # Background
