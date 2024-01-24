@@ -23,7 +23,7 @@ Our goal is to design a cup able to detect temperature in a drink and be able to
 
 We came to the conclusion to make this our mission statement because ...
 
-[Rest of Team Organization](/background.md)
+[Rest of Team Organization](/TeamOrganization.md)
 
 ## Results
 
