@@ -6,42 +6,42 @@ title: Team Organization
 
 Team Available Times: T - Between 3-6, Th - Between 3-6, Sat/Sun - Online meeting
 
-Hunter Janisch
-M- Anytime before 3
-T- Anytime after 3
-Wed- Anytime before 3
-Th- Anytime after 3
-F- Pretty Open
-Sat- Pretty Open
-Sun- Pretty open
+Hunter Janisch/
+M - Anytime before 3/
+T - Anytime after 3/
+Wed - Anytime before 3/
+Th - Anytime after 3/
+F - Pretty Open/
+Sat - Pretty Open/
+Sun - Pretty open/
 
-Erik Alegria
-(Work fluctuates on hours will communicate with team, effects mornings)
-M - After 3 (if working) and after 7:15
-T -  before 1:30 or after 2:45
-W - After 3 (if working) and after 7:15
-Th - before 1:30 or after 2:45
-F - After 3 (if working)
-Sat - After 3
-Sun - After 3
+Erik Alegria/
+(Work fluctuates on hours will communicate with team, effects mornings)/
+M - After 3 (if working) and after 7:15/
+T -  before 1:30 or after 2:45/
+W - After 3 (if working) and after 7:15/
+Th - before 1:30 or after 2:45/
+F - After 3 (if working)/
+Sat - After 3/
+Sun - After 3/
 
-Houyu Zhang
-M- After 8 pm
-T- Anytime
-Wed- After 8 pm
-Th- Anytime
-F- No time( class in Tempe campus)
-Sat- Pretty open
-Sun- Pretty open
+Houyu Zhang/
+M - After 8 pm/
+T - Anytime/
+Wed - After 8 pm/
+Th - Anytime/
+F - No time( class in Tempe campus)/
+Sat - Pretty open/
+Sun - Pretty open/
 
-Joseph Pelle
-Mon. - Any time before 3
-Tue. - Between 3 and 6
-Wed. - Any time before 3
-Thurs. - Between 3 and 6
-Fri. - Unavailable
-Sat. - Available Online
-Sun. Available Online
+Joseph Pelle/
+Mon. - Any time before 3/
+Tue. - Between 3 and 6/
+Wed. - Any time before 3/
+Thurs. - Between 3 and 6/
+Fri. - Unavailable/
+Sat. - Available Online/
+Sun. - Available Online/
 
 ## Team Meeting Coordination
 * Contact group through class period 
