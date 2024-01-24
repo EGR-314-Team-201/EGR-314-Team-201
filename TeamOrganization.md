@@ -76,7 +76,7 @@ Our approach involves assigning responsibilities to each role in a flexible mann
 * Consequences may include formal measures such as a Performance Improvement Plan (PIP) or, ultimately, termination from the team (e.g., pink slip).
 * If the team member facing performance challenges does not exhibit improvement, we will initiate a Performance Improvement Plan (PIP), akin to a formal warning. The PIP will be a systematic strategy detailing explicit performance expectations, identified areas for enhancement, and a set timeline for progress. Failure to meet the outlined goals within the PIP will prompt a discussion with the Professor, ultimately leading to termination from the team.
 
-Conflict Recognition and Resolution:
+### Conflict Recognition and Resolution:
 * Acknowledge and openly address any disagreements as they arise.
 * Resolve conflicts within the team promptly during the semester.
 * Identify instances when an issue should be elevated to the instructor for resolution.
