@@ -20,7 +20,7 @@ Our mission is to design a cutting-edge mobile weather station, integrating seri
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to background](/background)
+[link to background](/background.md)
 
 ## Results
 
