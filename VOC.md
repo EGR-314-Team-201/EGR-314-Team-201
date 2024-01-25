@@ -105,7 +105,7 @@ Smart Gear Temperature Control Smart Mug [Link](https://www.kohls.com/product/pr
 
 ![Picture of Smart Gear Mug](https://media.kohlsimg.com/is/image/kohls/6372399?wid=805&hei=805&op_sharpen=1) 
 Search Used: Heated Cup  
-Price: $99  
+Price: $99   
 Vendor: Kohl’s  
 Description: “This Smart Gear Temperature Control Smart Mug allows you to set your temperature with touch control or Bluetooth APP control and view temperature with LED temp display.”  
 Overall Review Score: (2.7/5)  
