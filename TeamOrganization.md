@@ -6,6 +6,18 @@ title: Team Organization
 
 Our mission is to design a cutting-edge mobile weather station, integrating serial sensors and actuation for dynamic environmental response. We are committed to sensing at least two environmental conditions with precision, utilizing advanced motor control protocols. Our goal is to not only meet academic requirements but to pioneer innovative, impactful solutions in environmental monitoring, broadcasting valuable data over the internet through MQTT. Join us in shaping a future where technology leads to a smarter world.
 
+Steps taken to build Mission Statement:
+
+1) We conducted a brainstorming session to identify the main problem, the project vision, and the project deliverables.
+2) We assigned roles and responsibilities to each team member based on their skills and interests.
+3) We defined the project goals and objectives using the SMART criteria (specific, measurable, achievable, relevant, and time-bound).
+4) We conducted a market research to analyze the current situation, the target audience, and the competitors.
+5) We developed a business case to justify the project’s feasibility, benefits, and risks.
+6) We outlined the project scope by listing the project activities, resources, and milestones.
+7) We created a project timeline using a Gantt chart to show the start and end dates of each task and the dependencies among them.
+8) We estimated the project budget by calculating the costs of labor, materials, equipment, and contingencies.
+9) We noted the key assumptions and constraints that could affect the project’s success, such as the availability of data, the quality of the deliverables, and the stakeholder feedback.
+
 ## Meeting Schedule and Coordination:
 
 Team Available Times:  
