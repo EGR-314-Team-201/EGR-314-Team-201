@@ -51,11 +51,14 @@ Customer Needs
 * Wider bottle mouth (Latent)
 * Thicker shell (Latent)
 
-Jettle: Portable Electric Kettle [Link](https://www.amazon.com/Jettle-Electric-Kettle-Stainless-Temperature/dp/B0BFTMM5PC/ref=sr_1_15?keywords=portable%2Bwater%2Bheater&qid=1705281857&sr=8-15&th=1)
+Jettle: Portable Electric Kettle   
 
-![Picture of Jettle](https://m.media-amazon.com/images/I/615qCiaSGZL._AC_UF350,350_QL80_.jpg)
-Search used: Portable Water Heater
-Description:  “Boil Water in an Instant - Enjoy piping hot coffee no matter where you are. With just a push of its touch button control, this electric travel kettle gives you boiling water in less than 5 minutes.”
-Price: $45
-Overall Review Score: (4.3/5)
+[Link](https://www.amazon.com/Jettle-Electric-Kettle-Stainless-Temperature/dp/B0BFTMM5PC/ref=sr_1_15?keywords=portable%2Bwater%2Bheater&qid=1705281857&sr=8-15&th=1)
+
+![Picture of Jettle](https://m.media-amazon.com/images/I/615qCiaSGZL._AC_UF350,350_QL80_.jpg)  
+
+Search used: Portable Water Heater  
+Description:  “Boil Water in an Instant - Enjoy piping hot coffee no matter where you are. With just a push of its touch button control, this electric travel kettle gives you boiling water in less than 5 minutes.”  
+Price: $45  
+Overall Review Score: (4.3/5)  
 
