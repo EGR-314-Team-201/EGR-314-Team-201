@@ -27,9 +27,9 @@ We came to the conclusion to make this our mission statement because ...
 
 ## User Needs
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
+For our user needs , we compiled a list of similar products to the one we wanted to creaate and went through various positive and negative reviews. We then examined each review what needs the customer was praised or as wanting from the product. More details for our process is in the following link.  
+
+[VOC Benchmarking](/VOC.md)
 
 ## Conclusions and Future Work
 
