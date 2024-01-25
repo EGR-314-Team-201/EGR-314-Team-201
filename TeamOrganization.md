@@ -8,7 +8,7 @@ Our mission is to design a cutting-edge mobile weather station, integrating seri
 
 Steps taken to build Mission Statement:
 
-1) - We conducted a brainstorming session to identify the main problem, the project vision, and the project deliverables.
+1) We conducted a brainstorming session to identify the main problem, the project vision, and the project deliverables.
 2) We assigned roles and responsibilities to each team member based on their skills and interests.
 3) We defined the project goals and objectives using the SMART criteria (specific, measurable, achievable, relevant, and time-bound).
 4) We conducted a market research to analyze the current situation, the target audience, and the competitors.
