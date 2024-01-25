@@ -52,9 +52,7 @@ From Negative Reviews
 * Wider bottle mouth (Latent)
 * Thicker shell (Latent)
 
-Jettle: Portable Electric Kettle   
-
-[Link](https://www.amazon.com/Jettle-Electric-Kettle-Stainless-Temperature/dp/B0BFTMM5PC/ref=sr_1_15?keywords=portable%2Bwater%2Bheater&qid=1705281857&sr=8-15&th=1)  
+## Jettle: Portable Electric Kettle [Link](https://www.amazon.com/Jettle-Electric-Kettle-Stainless-Temperature/dp/B0BFTMM5PC/ref=sr_1_15?keywords=portable%2Bwater%2Bheater&qid=1705281857&sr=8-15&th=1)  
 
 ![Picture of Jettle](https://m.media-amazon.com/images/I/615qCiaSGZL._AC_UF350,350_QL80_.jpg)  
 
