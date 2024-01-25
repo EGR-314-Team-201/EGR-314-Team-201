@@ -142,3 +142,4 @@ From Negative Reviews
 * Mug must heat the liquid evenly. (Explicit)
 * The cup must be durable and keep internal electrical components intact. (Latent)
 
+ 
