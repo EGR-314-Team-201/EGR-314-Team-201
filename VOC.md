@@ -34,6 +34,7 @@ _____
 |I wanted stainless steel to avoid chemicals/chemical smells in my boiled water that I keep for tea. This bottle is nice stainless steel, but the lid insert is plastic. You unscrew it after putting hot water into it and the heated/melted plastic smell is sickening. The water tastes like it, even though I made sure not to fill it high enough to touch the plastic insert and I completely unscrewed it instead of pouring the water out through the plastic.|
 
 Customer Needs
+From Positive Reviews
 * Leak proof (Explicit)
 * Durability (Latent)
 * Easy to hold (Latent)
@@ -43,6 +44,7 @@ Customer Needs
 * Shape design enables stable standing (Latent)
 * Easy to clean (Explicit)
 * Resistant to scratches (Explicit)
+From Negative Reviews
 * Prevent side leakage (Explicit)
 * Sturdy handle (Explicit)
 * Portable and light weight (Explicit)
@@ -79,6 +81,7 @@ _____
 |The product is excellent. The problem is that my hand can’t fit to clean the bottom. After use, it creates a dark, warm, moist, environment perfect for bacteria to grow. In minutes, I can see the bacterial colonies forming. If this product came with a flexible scrub or cleaner, or if there was one to purchase, I’d give it 5 stars.|
 
 User Needs:
+From Positive Reviews
 * Small compact design (Latent)
 * Easy to operate (Explicit) 
 * Quiet (Explicit)
@@ -86,6 +89,7 @@ User Needs:
 * Digital Display (Explicit)
 * Adaptability (Latent)
 * Temperature adjustment feature (Explicit)
+From Negative Reviews
 * Easy to operate (Explicit)
 * Displays the current temperature
 * Consistent (Explicit)
@@ -97,4 +101,44 @@ User Needs:
 * Compatibility with different power sources (Explicit)
 * Safe for various uses (Latent)
 
+Smart Gear Temperature Control Smart Mug [Link](https://www.kohls.com/product/prd-6372399/smart-gear-temperature-control-smart-mug.jsp?skuid=80598038&ci_mcc=ci&utm_campaign=ELECTRONICS&utm_medium=CSE&utm_source=bing&CID=shopping20&utm_campaignid=401704869&utm_adgroupid=1239149852749485)
+
+![Picture of Smart Gear Mug](https://media.kohlsimg.com/is/image/kohls/6372399?wid=805&hei=805&op_sharpen=1) 
+Search Used: Heated Cup  
+Price: $99  
+Vendor: Kohl’s  
+Description: “This Smart Gear Temperature Control Smart Mug allows you to set your temperature with touch control or Bluetooth APP control and view temperature with LED temp display.”  
+Overall Review Score: (2.7/5)  
+
+|Positive Reviews|
+_____
+
+|“This is what I do and it consistently works on the cup. Put your coffee in the cup. Turn the cup on by pressing and holding the button on the bottom. Press the button on the side of the cup to move the temperature on the cup to the max. THEN PRESS HOLD AND RELEASE the button on the side of the cup to turn on the red light on the cup showing that it is heating. Then quickly press the button on the side of the cup to set your desired temperature. I always have a problem turning the cup on when the coffee is hotter than my desired temperature setting. This process has not failed yet. I love my cup.” 5/5|
+
+|“This mug is life-changing. It's a sturdy, comfortable mug that will keep your coffee/beverage hot without feeling hot-to-the-touch and without the necessity of carrying around a separate warming-coaster. In short, it does what it says it will do. Warning: The directions could be much clearer and, because of that, there is a bit of a learning curve to learn what to push where to turn the mug on, heat the mug, and keep it at temperature. The negative reviews out there stating that the product doesn't work clearly come from those who have either not read the directions (shame on them) or who didn't understand the directions (understandable - the product is very user-friendly but the directions are unduly confusing). Like other brands of "hot-mugs", the product may be controlled through an app on your phone. Fortunately, unlike other brands of "hot-mugs", use of the app is not necessary -- instead, you can just press 'buttons' on the mug itself to control the heat/temperature (makes sense -- you're touching the mug already to use it -- why bring your phone into the mix?). I have no idea how user-friendly the app is - never saw the need to download it. If I had either the time or the inclination, I would post my own written directions for the mug or, better yet, post a quick video to show how user-friendly this mug really is --- but I have neither. Just believe me - this mug does what it says it will do. Finally, you can stroll around the house with your mug, sit on your front porch, get interrupted by a long phone call, and come back to hot coffee. Life-changing!!” 5/5|
+
+
+|Negative Reviews|
+_____
+
+|“I am pretty savvy with electronic devices, apps to run them, etc. As at least 1 prior reviewer mentioned, I could not get the cup to work. Uninstalled the app, reinstalled it, said it connected, and the charging light on the plug in came on appropriately. I charged it for 22 hours and still the mug and base and/or charger did not sync. When I poured a hot mug of coffee, the digital temp on the mug did not display. I didn't bother to open the 2nd one I ordered and both are going back.” 2/5|
+
+|“Heats from the sides instead of the bottom. Therefore, as you drink the coffee, the heater loses contact with the beverage. After half a cup no longer has enough contact to heat the beverage adequately adequately. On top of that, right out of the box, some of the digital lighting display was blown out.....JUNK” 1/5|
+
+
+User Needs:
+From Positive Reviews
+* Heat up and maintain the desired temperature for consistent time. (Explicit)
+* The interface needs to be simple and intuitive for ease of use. (Latent)
+* Must be reliable in performance with as minimal risk of malfunction as possible. (Latent)
+* Price must much the value (Explicit)
+* Directions to operate the mug must be clear and concise (Explicit)
+* Mug must heat from multiple sources, a separate heating device makes complications. (Explicit)
+From Negative Reviews
+* Cup and app integration must be seamless and reliable. (Latent)
+* Must charge quickly and hold the charge. (Explicit)
+* Cup must display accurate temperature readings throughout its use. (Explicit)
+* Cup must meet expectations that are advertised. (Latent)
+* Mug must heat the liquid evenly. (Explicit)
+* The cup must be durable and keep internal electrical components intact. (Latent)
 
