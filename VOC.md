@@ -26,6 +26,7 @@ _____
 
 |Negative Reviews|
 _____
+
 |The thermos handle is too loose. It's dangerous. It's so loose when you are opening the container would hot liquid. It could be poured all over you because the handle just flops around... I'm terribly sorry I would not recommend it to anyone. And I believe it was a product.|
 
 |So if I were to rate this based upon only keeping my coffee hot all day, it get a A. What you should know is that due to the plastic plug top which has 2 air vents, it is prone to leak unless its screwed in like your life depends upon it. This plug and its vents also cause the pour to splash out in all directions when held where they are't perfectly horizontal, which you can't see them to determine if they are straight. When it comes out splashing, it will splash everything close to your cup. I wipe my desk and cup off twice a day.|
