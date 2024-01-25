@@ -64,8 +64,8 @@ Description:  “Boil Water in an Instant - Enjoy piping hot coffee no matter wh
 Price: $45  
 Overall Review Score: (4.3/5)  
 
-|Positive Reviews|
-_____
+|Positive Reviews|  
+_____  
 
 |“I read the reviews and was expecting this to have a temperature problem, but Honestly i have no idea why people were so sensitive about it. It heated the water, I don't use a thermometer, but it was steaming and boiling hot when I opened it. Boiling as in still had bubbles. It isn't very much water compared to my water kettle in my kitchen at home, but it is travel size and I don't want it to be that big. It traveled well, and was easy to clean and pack up at the end of the week. Really happy I purchased this for my trip.”|
 
@@ -73,8 +73,8 @@ _____
 
 |“Great for power outages (use with Jackery power bank) or for traveling. Boils water quickly and really does get as hot as it says. I had to learn to adjust the temp down a bit for my water for tea. Very well-made, easy to use. Only thing that would've been better is if it had a cup to drink out of.”|
 
-|Negative Reviews|
-_____
+|Negative Reviews|  
+_____  
 
 |“I was really excited to take the Jettle with me on vacation to Iceland to heat water for coffee and tea. I realized from the 1st use that I could not feel the button to control the temperature - I just had to press it in the temp general area provided, which I think is a major design flaw. Unfortunately, because a touchable temperature button is not provided, I could not increase the temperature on the kettle in time before it started heating the liquid in time - it stayed on 40 degrees for baby milk heating. Then, by my 4th use, the Jettle broke when I plugged it into the electric socket converter. I had to throw it out. I'll be honest that it was easy to clean though. Overall, a waste of money.”|
 
@@ -110,16 +110,16 @@ Vendor: Kohl’s
 Description: “This Smart Gear Temperature Control Smart Mug allows you to set your temperature with touch control or Bluetooth APP control and view temperature with LED temp display.”  
 Overall Review Score: (2.7/5)  
 
-|Positive Reviews|
-_____
+|Positive Reviews|  
+_____  
 
 |“This is what I do and it consistently works on the cup. Put your coffee in the cup. Turn the cup on by pressing and holding the button on the bottom. Press the button on the side of the cup to move the temperature on the cup to the max. THEN PRESS HOLD AND RELEASE the button on the side of the cup to turn on the red light on the cup showing that it is heating. Then quickly press the button on the side of the cup to set your desired temperature. I always have a problem turning the cup on when the coffee is hotter than my desired temperature setting. This process has not failed yet. I love my cup.” 5/5|
 
 |“This mug is life-changing. It's a sturdy, comfortable mug that will keep your coffee/beverage hot without feeling hot-to-the-touch and without the necessity of carrying around a separate warming-coaster. In short, it does what it says it will do. Warning: The directions could be much clearer and, because of that, there is a bit of a learning curve to learn what to push where to turn the mug on, heat the mug, and keep it at temperature. The negative reviews out there stating that the product doesn't work clearly come from those who have either not read the directions (shame on them) or who didn't understand the directions (understandable - the product is very user-friendly but the directions are unduly confusing). Like other brands of "hot-mugs", the product may be controlled through an app on your phone. Fortunately, unlike other brands of "hot-mugs", use of the app is not necessary -- instead, you can just press 'buttons' on the mug itself to control the heat/temperature (makes sense -- you're touching the mug already to use it -- why bring your phone into the mix?). I have no idea how user-friendly the app is - never saw the need to download it. If I had either the time or the inclination, I would post my own written directions for the mug or, better yet, post a quick video to show how user-friendly this mug really is --- but I have neither. Just believe me - this mug does what it says it will do. Finally, you can stroll around the house with your mug, sit on your front porch, get interrupted by a long phone call, and come back to hot coffee. Life-changing!!” 5/5|
 
 
-|Negative Reviews|
-_____
+|Negative Reviews|  
+_____  
 
 |“I am pretty savvy with electronic devices, apps to run them, etc. As at least 1 prior reviewer mentioned, I could not get the cup to work. Uninstalled the app, reinstalled it, said it connected, and the charging light on the plug in came on appropriately. I charged it for 22 hours and still the mug and base and/or charger did not sync. When I poured a hot mug of coffee, the digital temp on the mug did not display. I didn't bother to open the 2nd one I ordered and both are going back.” 2/5|
 
