@@ -62,3 +62,39 @@ Description:  “Boil Water in an Instant - Enjoy piping hot coffee no matter wh
 Price: $45  
 Overall Review Score: (4.3/5)  
 
+|Positive Reviews|
+_____
+
+|“I read the reviews and was expecting this to have a temperature problem, but Honestly i have no idea why people were so sensitive about it. It heated the water, I don't use a thermometer, but it was steaming and boiling hot when I opened it. Boiling as in still had bubbles. It isn't very much water compared to my water kettle in my kitchen at home, but it is travel size and I don't want it to be that big. It traveled well, and was easy to clean and pack up at the end of the week. Really happy I purchased this for my trip.”|
+
+|“SO worth it. I've been using this almost everyday since it arrived, and I love it so much! It fits in the water bottle side-pocket of my backpack, and is surprisingly VERY quiet during heating. Easy to clean, and does well with every tea bag I've thrown in it. Would definitely buy again!”|
+
+|“Great for power outages (use with Jackery power bank) or for traveling. Boils water quickly and really does get as hot as it says. I had to learn to adjust the temp down a bit for my water for tea. Very well-made, easy to use. Only thing that would've been better is if it had a cup to drink out of.”|
+
+|Negative Reviews|
+_____
+
+|“I was really excited to take the Jettle with me on vacation to Iceland to heat water for coffee and tea. I realized from the 1st use that I could not feel the button to control the temperature - I just had to press it in the temp general area provided, which I think is a major design flaw. Unfortunately, because a touchable temperature button is not provided, I could not increase the temperature on the kettle in time before it started heating the liquid in time - it stayed on 40 degrees for baby milk heating. Then, by my 4th use, the Jettle broke when I plugged it into the electric socket converter. I had to throw it out. I'll be honest that it was easy to clean though. Overall, a waste of money.”|
+
+|The product is excellent. The problem is that my hand can’t fit to clean the bottom. After use, it creates a dark, warm, moist, environment perfect for bacteria to grow. In minutes, I can see the bacterial colonies forming. If this product came with a flexible scrub or cleaner, or if there was one to purchase, I’d give it 5 stars.|
+
+User Needs:
+* Small compact design (Latent)
+* Easy to operate (Explicit) 
+* Quiet (Explicit)
+* Reliable (Latent)
+* Digital Display (Explicit)
+* Adaptability (Latent)
+* Temperature adjustment feature (Explicit)
+* Easy to operate (Explicit)
+* Displays the current temperature
+* Consistent (Explicit)
+* Ease of cleaning (Explicit)
+* Simple one button design (Explicit)
+* Clear Instructions for use (Explicit)
+* Reliable Performance (Latent)
+* Durability (Latent)
+* Compatibility with different power sources (Explicit)
+* Safe for various uses (Latent)
+
+
