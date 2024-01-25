@@ -8,7 +8,7 @@ Direct Competitors
 Search #1  
 Search used: Thermos (Due to similarity to pitch)  
 Thermos [Link](https://www.amazon.com/Thermos-Stainless-Ounce-Beverage-Bottle/dp/B01DZQT3IU?th=1)
-![Picture of Thermos](https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61iAF0pBz2L.jpg&tbnid=rS_xAI4sTOaf5M&vet=12ahUKEwiUi5D9n_eDAxVNhu4BHZpuDJYQ94IIKAF6BAgBEHY..i&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FThermos-Stainless-Ounce-Beverage-Bottle%2Fdp%2FB01DZQT3IU&docid=jjAEKOO9EAZ4oM&w=863&h=2500&q=thermos&ved=2ahUKEwiUi5D9n_eDAxVNhu4BHZpuDJYQ94IIKAF6BAgBEHY)  
+![Picture of Thermos](https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/61iAF0pBz2L.__AC_SX300_SY300_QL70_FMwebp_.jpg)  
 
 Price: $35  
 Vendor: Amazon  
@@ -53,9 +53,9 @@ Customer Needs
 
 Jettle: Portable Electric Kettle [Link](https://www.amazon.com/Jettle-Electric-Kettle-Stainless-Temperature/dp/B0BFTMM5PC/ref=sr_1_15?keywords=portable%2Bwater%2Bheater&qid=1705281857&sr=8-15&th=1)
 
+![Picture of Jettle](https://m.media-amazon.com/images/I/615qCiaSGZL._AC_UF350,350_QL80_.jpg)
 Search used: Portable Water Heater
 Description:  “Boil Water in an Instant - Enjoy piping hot coffee no matter where you are. With just a push of its touch button control, this electric travel kettle gives you boiling water in less than 5 minutes.”
 Price: $45
 Overall Review Score: (4.3/5)
 
-![Picture of Jettle](https://m.media-amazon.com/images/I/615qCiaSGZL._AC_UF350,350_QL80_.jpg)
