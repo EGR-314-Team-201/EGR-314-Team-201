@@ -1,6 +1,6 @@
----
-title: Team Organization
----
+
+# title: Team Organization
+
 
 ## Mission Statement 
 
