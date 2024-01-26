@@ -25,8 +25,9 @@ Regulatory Instances - Complying with laws concerning contamination of liquids, 
 
 ## Use Cases
 _____________
-Regular Daily Use: Users can carry the device to keep their beverages at the desired temperature throughout the day.
-Travel: Ideal for individuals on the go, ensuring drinks remain at the preferred temperature during travel.
+- Regular Daily Use: Users can carry the device to keep their beverages at the desired temperature throughout the day.
+
+- Travel: Ideal for individuals on the go, ensuring drinks remain at the preferred temperature during travel.
  _____________
 User Story #1: Alex, a 29-year-old office professional, has a busy lifestyle that involves commuting, working long hours, and staying hydrated throughout the day. Alex recently purchased a smart thermos equipped with temperature detection and heating/cooling capabilities.Alex pours a cup of coffee into the smart thermos before leaving for work in the morning.The thermos, equipped with a temperature sensor, instantly detects the initial temperature of the coffee.During the commute, Alex checks the smart thermos app on the smartphone.The app displays the current temperature of the coffee and ensures it's at the desired warmth.
 _____________
