@@ -8,7 +8,7 @@ For our product, we decided on creating a portable heater/cooler for drinks. The
 
 ## Objective
 _____________
-We want to be able to sell our product in stores with the average person being able to pick it up for general use. By keeping the price at a reasonable point, we can sell to many different groups without issue.
+Develop a portable heater/cooler for drinks that allows users to maintain and adjust their beverage temperature based on personal preferences. We also want to be able to sell our product in stores with the average person being able to pick it up for general use. By keeping the price at a reasonable point, we can sell to many different groups without issue.
 
 
 ## Stakeholders
@@ -35,44 +35,40 @@ User Story#2: Taylor, a 34-year-old outdoor enthusiast, has a passion for hiking
 
 # Design Aspects
 ## Hardware / Product Design
-- Able to use different sized cups
-- Portable
-- Easy to Hold
-- Secure
-- Lightweight
-- Reusable
-- Energy efficient
+- The product must accommodate various cup sizes.
+- Ensure portability, ease of holding, and a secure grip.
+- Lightweight design for user convenience.
+- Utilize reusable components to enhance sustainability.
+- Implement energy-efficient technology for extended use.
 ## Software / Functionality
-- Digital Display
-- Temperature Adjustment
-- Heating or Cooling Liquid Evenly
-- I2C or SPI
-- Work as intended even after multiple use
-- Product should function in a variety of environments
+- Include a digital display for user-friendly interaction.
+- The product will have precise temperature adjustment for heating or cooling.
+- Ensure even distribution of temperature throughout the liquid.
+- Utilize I2C or SPI for efficient communication.
+- Guarantee proper functionality after repeated use.
+- The product should operate seamlessly in various environments.
  ## Interactivity & User Experience
-- Seamless App Integration
-- Maintain a user friendly interface
-- Have feedback response that is easy to understand
+- Integrate with a user-friendly mobile app.
+- Maintain a straightforward interface for easy interaction.
+- Provide clear and understandable feedback responses.
 - Enhance, not detract from user experience
 - Engage user to continue use the product
 ##  Customization
 - Product should be tailored to customer needs
-- Product should be easy to assemble with common tooling
+- Product should be easy to assemble with common tools.
 ## Manufacturing
-- Quality Materials
-- Come with extra parts in the case of damage
-- Tested and approved by each team member before the finalization
-- Avoid the use of expensive materials
-- Include design files for easy repair
-- Provide instructions for use
+- Use high-quality materials for durability.
+- Include spare parts for potential damages.
+- Thorough testing and approval by team members before finalization.
+- Avoid expensive materials and provide design files for easy repair.
+- Include clear instructions for use.
 ## Safety
 - Prevent potential drink contamination
-- Leak Proof
+- Ensure leak-proof design.
 - Avoid plastic material inside device
-- Temperature heat limit
+- Set a temperature heat limit for safe operation.
 - Not contain any sharp edges
 - Product should be functioning at a safe voltage range
-- Lightweight
-- Made from non-toxic or heat-withstand materials
+- Lightweight and made from non-toxic or heat-resistant materials.
 - No exposed wiring or electrical components
 - Electrical circuits should be grounded
