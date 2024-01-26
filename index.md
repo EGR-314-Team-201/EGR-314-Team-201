@@ -29,6 +29,7 @@ For our user needs , we compiled a list of similar products to the one we wanted
 [VOC Benchmarking](/VOC.md)
 
 ## Product Requirements
+Dive into the core specifications of our innovative product by exploring our Product Requirement Document. Follow the link to gain insights into the essential features, design considerations, functionality, customization options, manufacturing guidelines, and safety standards that define our portable beverage temperature control device. 
 [Product Requirements Document](/Product-Requirements.md)
 
 ## Design Ideation
