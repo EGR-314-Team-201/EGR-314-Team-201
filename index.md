@@ -1,6 +1,3 @@
----
-title: Home
----      
 
 # Home
 
@@ -34,9 +31,10 @@ For our user needs , we compiled a list of similar products to the one we wanted
 ## Product Requirements
 [Product Requirements Document](/Product-Requirements.md)
 
-## 
+## Design Ideation
+Explore our product's design journey through our ideation process. Click the link to delve into the evolution of ideas, collaborative efforts, and creative solutions that shaped our portable beverage temperature control device. Discover the insights into hardware and software design, user experience, customization, manufacturing, and safety considerations.
 
-[example link to idealab](https://idealab.asu.edu)
+[Design Ideation Document](/Design-Ideation.md)
 
 
 ## 
