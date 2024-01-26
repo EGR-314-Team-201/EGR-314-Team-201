@@ -67,10 +67,10 @@ Sun. - Available Online
 * We will additionally set up a discord server to further communicate with each other and remind each other of meetings coming up in the future as well as providing a reliable way to communicate with one another
 
 ## Roles and Responsibilities
-Joseph Pelle: Project monitor
-Erik Alegria: Meeting leader/recorder
-Hunter Janisch: Assignment leader
-Houyu Zhang: Assignment editor/finalizer
+- Joseph Pelle: Project monitor
+- Erik Alegria: Meeting leader/recorder
+- Hunter Janisch: Assignment leader
+- Houyu Zhang: Assignment editor/finalizer
 
 ## Accountability
 Our approach involves assigning responsibilities to each role in a flexible manner, facilitating easy reassignment as required. Initially, roles were determined on a voluntary basis, with the first team member volunteering for a role being assigned that responsibility. Additionally, we can interchange roles as necessary. In our meetings, we discuss and identify team members who require assistance and the specific support needed.
