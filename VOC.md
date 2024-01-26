@@ -33,7 +33,7 @@ _____
 |I wanted stainless steel to avoid chemicals/chemical smells in my boiled water that I keep for tea. This bottle is nice stainless steel, but the lid insert is plastic. You unscrew it after putting hot water into it and the heated/melted plastic smell is sickening. The water tastes like it, even though I made sure not to fill it high enough to touch the plastic insert and I completely unscrewed it instead of pouring the water out through the plastic.|
 
 ### Customer Needs
-From Positive Reviews
+#### From Positive Reviews
 * Leak proof (Explicit)
 * Durability (Latent)
 * Easy to hold (Latent)
@@ -42,8 +42,8 @@ From Positive Reviews
 * Temperature insulation (Latent)
 * Shape design enables stable standing (Latent)
 * Easy to clean (Explicit)
-* Resistant to scratches (Explicit)
-From Negative Reviews
+* Resistant to scratches (Explicit)  
+#### From Negative Reviews
 * Prevent side leakage (Explicit)
 * Sturdy handle (Explicit)
 * Portable and light weight (Explicit)
@@ -77,15 +77,15 @@ _____
 |The product is excellent. The problem is that my hand can’t fit to clean the bottom. After use, it creates a dark, warm, moist, environment perfect for bacteria to grow. In minutes, I can see the bacterial colonies forming. If this product came with a flexible scrub or cleaner, or if there was one to purchase, I’d give it 5 stars.|
 
 ### User Needs
-From Positive Reviews
+#### From Positive Reviews
 * Small compact design (Latent)
 * Easy to operate (Explicit) 
 * Quiet (Explicit)
 * Reliable (Latent)
 * Digital Display (Explicit)
 * Adaptability (Latent)
-* Temperature adjustment feature (Explicit)
-From Negative Reviews
+* Temperature adjustment feature (Explicit)  
+#### From Negative Reviews
 * Easy to operate (Explicit)
 * Displays the current temperature
 * Consistent (Explicit)
@@ -123,14 +123,14 @@ _____
 
 
 ### User Needs:
-From Positive Reviews
+#### From Positive Reviews
 * Heat up and maintain the desired temperature for consistent time. (Explicit)
 * The interface needs to be simple and intuitive for ease of use. (Latent)
 * Must be reliable in performance with as minimal risk of malfunction as possible. (Latent)
 * Price must much the value (Explicit)
 * Directions to operate the mug must be clear and concise (Explicit)
-* Mug must heat from multiple sources, a separate heating device makes complications. (Explicit)
-From Negative Reviews
+* Mug must heat from multiple sources, a separate heating device makes complications. (Explicit)  
+#### From Negative Reviews
 * Cup and app integration must be seamless and reliable. (Latent)
 * Must charge quickly and hold the charge. (Explicit)
 * Cup must display accurate temperature readings throughout its use. (Explicit)
@@ -138,4 +138,123 @@ From Negative Reviews
 * Mug must heat the liquid evenly. (Explicit)
 * The cup must be durable and keep internal electrical components intact. (Latent)
 
- 
+## Dealovy Premium 2-in-1 Car Cup Warmer Cooler [Link](https://www.amazon.com/Premium-Perfect-Commuter-Thanksgiving-Presents/dp/B077PBQ89B/ref=sr_1_1_sspa?crid=1CSL7N5XQU3P8&dib=eyJ2IjoiMSJ9.Etf3IkWPSJ3eDOL54nAPCssmdcmPWlPg8P_N0Tzw6VFQD_VZZVXHEISWnuC-zJbH9fir-KndglI0B2l8bnvwVdC8baXSuirT04R3RUoGTCj9VNBBoB1Z1hMimvty7fWr_Kq8JLMbjN1ynmcHD24dA1_0Cuqr-XpjF-2R7kPMaoTUiEdoCJrqQsdIWTdrXZ8WbMDh8GDkJnzc5NJGUhONVIne-7EpitS1DPoS5dEG1Is.72ZMxb2zZRMpK8hBpKi3SleiZi0O2RsKnH_KLqdtKks&dib_tag=se&keywords=car%2Bcooling%2Bcup%2Bholder&qid=1705464792&sprefix=car%2Bcooling%2Bcup%2Bholder%2Caps%2C133&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)  
+
+[Image of Yesinaly Cup Warmer/Cooler](https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/81F6T9NgXVL._AC_SL1500_.jpg)  
+
+
+Price: $36.99  
+Vendor:Yesinaly  
+Description:Used in the car to heat coffee, drinks, milk bottles, tea, perfect for work, travel on the road by connecting directly to cigarette lighter by adapter cable in the car  
+Search Used: car cooling cup holder  
+Overall Review Score: (3.6/5)  
+
+### Positive Reviews  
+_____  
+|I often eat breakfast burritos on the way to work. I thought this would be great for the drink I get when I go to my favorite restaurant , however their cups are not made of metal therefore not very conductive to the drink warming apparatus|
+
+|I love this cup cooler! If you're looking for something to keep your beverages cold in the car, then look no further! It is very easy to use, one button for heat one button for cold. This product has a metal plate inside that cools so well it can actually get a little Frosty to the touch. It is so awesome that my husband stole it for energy drinks in his car and I had to buy another one! The only downside is that it only has a cigarette lighter power cord, it would have been nice if it was compatible with a power cord for the house so I could use it in the office.|
+
+|The vents must be completely exposed when the product sits in your car's cup holder. Any obstruction of these vents will stop its cooling ability. If necessary, make something to prop up the product so the vents are open to the air.A cover is necessary to keep the cold air around the can. This could be 3D printed. Ideally, the manufacturer could supply one.|
+
+### Negative Reviews  
+_____  
+|Hate when a great idea is improperly executed. This is just the ticket. pour in a little water that will freeze and conduct heat to the can, keeping your drink more than cool, ice cold. Except that the power connector to the cup is tiny, can't handle the current, heats up enough to burn my finger and eventually melts the plastic resulting in a failure. This is not only a failure point, it is a safety hazard. Other than the obvious and easily preventable engineering failure, it's perfect. Simply using a proper connector would have solved this.|
+
+|It works okay on a closed container. It cools the bottom and then you have to mix it a little to distribute the cold temperature. I have not tried the hot feature. When on cold you hear a fan noise during operation. I tried cooling an open can of soda and it was hard to cool the whole container because I couldn't mix the temperatures. It is stable in the cup holder. After a few minutes of use the outside of the electric cup starts to get a little warm near the plug. Over all I would not buy this again.|
+
+|I should of read the description better, I thought there maybe inserts for each size of cups.I placed a medium size dunkin donuts cup in it it covered 1/4 cup high.|
+
+### User Needs:
+#### From Positive Reviews  
+* Metal cups for warming apparatus (Explicit)
+* Effective cup cooler (Latent) 
+* Prevent obstruction on the vents (Explicit)
+* Provide covers to keep temperature (Explicit)
+* Compatible with a house power cord (Explicit)
+* Size can be adjusted to accommodate cups of different sizes (Explicit)  
+#### From Negative Reviews
+* Safe and well-designed power connector (Explicit)
+* Size complicity and coverage (Latent)
+* Accurate product descriptions (Latent)
+* Able to cool or heat evenly (Explicit)
+* Prevent using plastic materials around powered components (Explicit)
+* Moderate price (Latent)
+
+## HOT KUP Heated Coffee Mug 14oz Temperature Controlled Smart Cup [Link](https://www.amazon.com/Temperature-Controlled-Heating-Capability-White/dp/B0BW4ZS3SN?th=1)  
+
+[Picture of HOTKUP](https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/61m+kDJz3NL._AC_SL1500_.jpg)
+
+Search used: Cup with heating and cooling capabilities  
+Price: $110  
+Vendor: Amazon  
+Description: ”HotKups empowers you to enjoy your beverage at the ideal temperature. With total control from icy cold to boiling hot, every sip caters to your taste. Whether using the touch buttons on the Kup or the smartphone app, achieving your perfect warmth has never been easier. Bid farewell to compromises – say hello to beverage perfection!”  
+Overall Review Score: (3.4/5)  
+
+### Positive Reviews  
+_____  
+|“Bought this to use when I stay with my 97yo Mom in hospital and now use every day! This thing can cook from scratch and, with batteries, is very incognito. Have tested recipes for beans, grains, pasta that pack tiny and this thing can cook!! When I return to my off grid lifestyle expect to also use it just as much and soak up excess solar and alternator power in those cute little batteries. Only complaint is will need to use bulky inverter but maybe a 12 volt slow charger will come along. And as good as the cup is the customer service is even better! Lot’s questions to help with buying decision were answered nearly instantly! Can’t wait to see what innovative things these guys develop!”|
+
+|“I love the Hot Kup. It's very easy to use - I downloaded the Hot Kup app. I've pressed the "boil" button and it worked really well. The Hot Kup heats coffee up or keeps it warm. It makes like really easy, especially if you're sitting at your desk at work. You can heat up the Hot Kup to make tea, for example. It's sleek, and it shows the temperature on the Hot Kup as well. I really like it!”|
+
+### Negative Reviews  
+_____ 
+|“Self-heating electric cup.
+Hot Kup brand, model‎HK WH, made in China.
+
+Pros:
++ Aesthetics;
++ Quality of materials;
++ LED display;
++ Touch controls;
++ Control via App;
++ CE logo present.
+
+Cons:
+- Info and instructions in English;
+- App downloadable only from the Play Store USA;
+- App with several bugs; - Slow to heat up;
+
+- The cork does not hold if it spills;
+- Battery to be purchased separately;
+- The cork does not hold if you spill the cup.|
+
+|Perplexed by this product that aesthetically and qualitatively is very well done.. but in practical use I don't see much usefulness/practicality, especially for the sale price!
+
+In practice, it is like a classic kettle but in miniature, it has its own electric base with a large and bulky 65 Watt external power supply.. as soon as you place the cup it is activated and the Display turns on with the temperature indication.. next to this (very little visible) there are the touch controls for the temperature + and -.
+
+The temperature is set by default in degrees Fahrenheit and to change it to centigrade you need to download the app of the same name “Hot Kup” and here the “nice” begins.
+This App does not exist on the Italian Android Play Store.. I found the link on the manufacturer's website that leads to the US Play Store and from here I installed it.. fortunately it does not require the creation of accounts or other data other than geolocation.
+The connectivity is good and immediate.. the App is only in English and has few functions and some important bugs.
+The main page has shortcut keys such as ON/OFF and to set the main functions that are those of using 'drink coffee', 'drink tea', 'drink chocolate', those for preparing 'make coffee', 'prepare tea', 'prepare chocolate', finally there are the functions of 'water purify' and that of 'boiling'.
+In addition to this, you can only give a name to the cup and precisely set the F° or the C°, setting the temperature is a disaster, the interface does not work well and useless in this.
+
+It takes 15 to 20 minutes to heat up the barely 400ml of maximum liquid it can hold, for example, a classic kettle takes half the time to boil twice as much water.
+I tried to simulate the spilling of the cup and, surprise surprise, the cork comes off immediately pouring out the contents.. the sealing gasket when it heats up no longer holds!!|
+
+|Honestly, I don't see a real use in this product, it just serves to keep the drink warm but at an unreasonable price for me.. maybe it's good for the Americans or the British..”|
+
+### User Needs:
+#### From Positive Reviews 
+* Versatility - can be used for multiple items (Explicit)
+* Portable and low-profile design (Latent)
+* Compatibility with different power sources (Explicit)
+* Easy to use (Explicit)
+* Clearly displays  the temperature (Latent)
+* Aesthetically appealing (Latent)
+* Compact size for desk use (Explicit)
+* Temperature Maintenance (Explicit)
+#### From Negative Reviews
+* Clear instructions on how to set up the device (Eplicit)
+* Accessible to all (Global Availability) (Explicit)
+* Device works reliably (Explicit)
+* Improved App functionality (Latent)
+* Efficient heating/cooling (Explicit)
+* Secure lid design (Latent)
+* Offer a complete package or bundle (Latent)
+* Easy to use controls (Explicit)
+* Enhanced sealing gasket (Explicit)
+* Aesthetically appealing (Latent)
+
+
+
