@@ -34,20 +34,20 @@ _____________
 User Story#2: Taylor, a 34-year-old outdoor enthusiast, has a passion for hiking and camping. Taylor recently acquired a high-tech thermos designed for outdoor adventures, equipped with temperature detection and the ability to cool or heat liquids.Taylor fills the thermos with a favorite hot beverage before embarking on a morning hike.The temperature sensor in the thermos accurately measures the initial temperature of the drink.Taylor finds a scenic spot to take a break and enjoy the surroundings.The thermos, designed for outdoor durability, keeps the beverage at the right temperature despite changes in external conditions.
 
 # Design Aspects
-## Hardware / Product Design
-- The product must accommodate various cup sizes.
-- Ensure portability, ease of holding, and a secure grip.
-- Lightweight design for user convenience.
-- Utilize reusable components to enhance sustainability.
-- Implement energy-efficient technology for extended use.
-## Software / Functionality
-- Include a digital display for user-friendly interaction.
-- The product will have precise temperature adjustment for heating or cooling.
-- Ensure even distribution of temperature throughout the liquid.
-- Utilize I2C or SPI for efficient communication.
-- Guarantee proper functionality after repeated use.
-- The product should operate seamlessly in various environments.
- ## Interactivity & User Experience
+## 1. Hardware / Product Design
+1.1- The product must accommodate various cup sizes <br>
+1.2- Ensure portability, ease of holding, and a secure grip. <br>
+1.3- Lightweight design for user convenience. <br>
+1.4- Utilize reusable components to enhance sustainability. <br>
+1.5- Implement energy efficient technology for extended use. <br>
+## 2. Software / Functionality
+2.1- Include a digital display for user-friendly interaction.<br>
+2.2- The product will have precise temperature adjustment for heating or cooling.<br>
+2.3- Ensure even distribution of temperature throughout the liquid.<br>
+2.4- Utilize I2C or SPI for efficient communication.<br>
+2.5- Guarantee proper functionality after repeated use.<br>
+2.6- The product should operate seamlessly in various environments.<br>
+## 3. Interactivity & User Experience
 - Integrate with a user-friendly mobile app.
 - Maintain a straightforward interface for easy interaction.
 - Provide clear and understandable feedback responses.
