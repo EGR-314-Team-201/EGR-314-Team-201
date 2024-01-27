@@ -37,4 +37,3 @@ Explore our product's design journey through our ideation process. Click the lin
 [Design Ideation Document](/Design-Ideation.md)
 
 
-## 
