@@ -1,11 +1,11 @@
 
 # Home
 
-Cup Warmer/Cooler <br>
-EGR 314 Team 201 Spring 2024 <br>
-Team Members: Erik Alegria, Hunter Janisch, Joseph Pelle, Houyu Zhang <br>
-Preparation Date: 1/26/2024 <br>
-ASU Poly, EGR 314 Mon/Wed, Dr. Kelly <br>
+Cup Warmer/Cooler  
+EGR 314 Team 201 Spring 2024  
+Team Members: Erik Alegria, Hunter Janisch, Joseph Pelle, Houyu Zhang  
+Preparation Date: 1/26/2024  
+ASU Poly, EGR 314 Mon/Wed, Dr. Kelly  
 
 ## Team Organization
 Team Goals:
@@ -35,5 +35,5 @@ Explore our product's design journey through our ideation process. Click the lin
 [Design Ideation Document](/Design-Ideation.md)
 
 ## Checkpoint 1 Presentation
-Watch our presentation to get a better look at our ideas and thought processes for our product.
-
+Watch our presentation to get a better look at our ideas and thought processes for our product.  
+[Checkpoint 1 Presentation](/Checkpoint1.md)
