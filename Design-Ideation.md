@@ -8,7 +8,7 @@ Throughout our brainstorming session our team discussed about key aspects we wan
 By prioritizing functionality, we ensure that the (weather station) delivers accurate and comprehensive data, meeting the primary objective of providing valuable insights into atmospheric conditions. The emphasis on safety follows, acknowledging the critical importance of reliable and secure data transmission, a weather-resistant design, and an effective emergency alert system to protect users from potential hazards. Finally, placing convenience as a top criterion recognizes the significance of user experience, ensuring that the weather station is not only technologically advanced but also easy to use, portable, and sustainable. This ranking reflects a holistic approach that addresses the core functionalities, safety considerations, and user-friendly aspects, ultimately leading to the development of a (mobile weather station) that excels in performance, reliability, and user satisfaction.
 
 
+## Product Concept Sketches
 
-
-![Capture32](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4e02827d-355f-4101-8eb2-951e5dfcdb9d)
+![Product Concept #1:](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4e02827d-355f-4101-8eb2-951e5dfcdb9d)
 
