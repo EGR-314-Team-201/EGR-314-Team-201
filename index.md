@@ -18,8 +18,6 @@ Team Goals:
 
 Our goal is to design a cup able to detect temperature in a drink and be able to regulate its temperature using serial sensor and outside actuators. Our goal is to not only meet academic requirements but to pioneer innovative, impactful solutions in environmental monitoring, broadcasting valuable data over the internet through MQTT. Join us in shaping a future where technology leads to a smarter world.
 
-We came to the conclusion to make this our mission statement because ...
-
 [Rest of Team Organization](/TeamOrganization.md)
 
 ## User Needs
@@ -36,4 +34,6 @@ Dive into the core specifications of our innovative product by exploring our Pro
 Explore our product's design journey through our ideation process. Click the link to delve into the evolution of ideas, collaborative efforts, and creative solutions that shaped our portable beverage temperature control device. Discover the insights into hardware and software design, user experience, customization, manufacturing, and safety considerations.  
 [Design Ideation Document](/Design-Ideation.md)
 
+## Checkpoint 1 Presentation
+Watch our presentation to get a better look at our ideas and thought processes for our product.
 
