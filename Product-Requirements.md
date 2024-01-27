@@ -29,9 +29,12 @@ _____________
 
 - Travel: Ideal for individuals on the go, ensuring drinks remain at the preferred temperature during travel.
  _____________
+
 User Story #1: Alex, a 29-year-old office professional, has a busy lifestyle that involves commuting, working long hours, and staying hydrated throughout the day. Alex recently purchased a smart thermos equipped with temperature detection and heating/cooling capabilities.Alex pours a cup of coffee into the smart thermos before leaving for work in the morning.The thermos, equipped with a temperature sensor, instantly detects the initial temperature of the coffee.During the commute, Alex checks the smart thermos app on the smartphone.The app displays the current temperature of the coffee and ensures it's at the desired warmth.
 _____________
-User Story#2: Taylor, a 34-year-old outdoor enthusiast, has a passion for hiking and camping. Taylor recently acquired a high-tech thermos designed for outdoor adventures, equipped with temperature detection and the ability to cool or heat liquids.Taylor fills the thermos with a favorite hot beverage before embarking on a morning hike.The temperature sensor in the thermos accurately measures the initial temperature of the drink.Taylor finds a scenic spot to take a break and enjoy the surroundings.The thermos, designed for outdoor durability, keeps the beverage at the right temperature despite changes in external conditions.
+
+User Story #2: Taylor, a 34-year-old outdoor enthusiast, has a passion for hiking and camping. Taylor recently acquired a high-tech thermos designed for outdoor adventures, equipped with temperature detection and the ability to cool or heat liquids.Taylor fills the thermos with a favorite hot beverage before embarking on a morning hike.The temperature sensor in the thermos accurately measures the initial temperature of the drink.Taylor finds a scenic spot to take a break and enjoy the surroundings.The thermos, designed for outdoor durability, keeps the beverage at the right temperature despite changes in external conditions.
+_____________
 
 # Design Aspects
 ## 1. Hardware / Product Design
@@ -48,27 +51,27 @@ User Story#2: Taylor, a 34-year-old outdoor enthusiast, has a passion for hiking
 2.5- Guarantee proper functionality after repeated use.<br>
 2.6- The product should operate seamlessly in various environments.<br>
 ## 3. Interactivity & User Experience
-- Integrate with a user-friendly mobile app.
-- Maintain a straightforward interface for easy interaction.
-- Provide clear and understandable feedback responses.
-- Enhance, not detract from user experience
-- Engage user to continue use the product
-##  Customization
-- Product should be tailored to customer needs
-- Product should be easy to assemble with common tools.
-## Manufacturing
-- Use high-quality materials for durability.
-- Include spare parts for potential damages.
-- Thorough testing and approval by team members before finalization.
-- Avoid expensive materials and provide design files for easy repair.
-- Include clear instructions for use.
-## Safety
-- Prevent potential drink contamination
-- Ensure leak-proof design.
-- Avoid plastic material inside device
-- Set a temperature heat limit for safe operation.
-- Not contain any sharp edges
-- Product should be functioning at a safe voltage range
-- Lightweight and made from non-toxic or heat-resistant materials.
-- No exposed wiring or electrical components
-- Electrical circuits should be grounded
+3.1- Integrate with a user-friendly mobile app. <br>
+3.2- Maintain a straightforward interface for easy interaction.<br>
+3.3- Provide clear and understandable feedback responses.<br>
+3.4- Enhance, not detract from user experience.<br>
+3.5- Engage user to continue use the product. <br>
+## 4. Customization
+4.1- Product should be tailored to customer needs.<br>
+4.2- Product should be easy to assemble with common tools.<br>
+## 5. Manufacturing
+5.1- Use high-quality materials for durability.<br>
+5.2- Include spare parts for potential damages.<br>
+5.3- Thorough testing and approval by team members before finalization.<br>
+5.4- Avoid expensive materials and provide design files for easy repair.<br>
+5.5- Include clear instructions for use.<br>
+## 6. Safety
+6.1- Prevent potential drink contamination<br>
+6.2- Ensure leak-proof design.<br>
+6.3- Avoid plastic material inside device.<br>
+6.4- Set a temperature heat limit for safe operation.<br>
+6.5- Not contain any sharp edges.<br>
+6.6- Product should be functioning at a safe voltage range.<br>
+6.7- Lightweight and made from non-toxic or heat-resistant materials.<br>
+6.8- No exposed wiring or electrical components.<br>
+6.9- Electrical circuits should be grounded.<br>
