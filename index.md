@@ -22,7 +22,7 @@ Our goal is to design a cup able to detect temperature in a drink and be able to
 
 ## User Needs
 
-For our user needs , we compiled a list of similar products to the one we wanted to create and went through various positive and negative reviews. We then examined each review what needs the customer was praised or  wanting from the product. More details for our process is in the following link.  
+For our user needs, we compiled a list of similar products to the one we wanted to create and went through various positive and negative reviews. We then examined each review what needs the customer was praised or  wanting from the product. More details for our process is in the following link.  
 
 [VOC Benchmarking](/VOC.md)
 
@@ -37,3 +37,12 @@ Explore our product's design journey through our ideation process. Click the lin
 ## Checkpoint 1 Presentation
 Watch our presentation to get a better look at our ideas and thought processes for our product.  
 [Checkpoint 1 Presentation](/Checkpoint1.md)
+
+## Selected Design
+
+## Block Diagram
+
+## Component Selection
+
+## Hardware Proposal
+
