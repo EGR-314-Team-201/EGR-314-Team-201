@@ -40,7 +40,11 @@ Watch our presentation to get a better look at our ideas and thought processes f
 
 ## Selected Design
 
+![Chosen Design: Device holding cup with heating pad on bottom and peltier coolers and heatsink on side](/Checkpoint2/DesignScreenshot.png)    
+Description: This concept acts as something to place your drink in. The panel on the side will be used to set the desired temperature for your drink. Depending on whether the drink should be heated or cooled. The heat pad on the bottom and the fan and coolant on the side will activate. To get to the correct temperature, a probe is used to check the current temperature of the drink and see once the drink reaches the desired temperature.    
+
 ## Block Diagram
+
 
 ## Component Selection
 
