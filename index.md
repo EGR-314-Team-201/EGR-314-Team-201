@@ -45,8 +45,30 @@ Description: This concept acts as something to place your drink in. The panel on
 
 ## Block Diagram
 
+Place Image After Updating With Each Teammate Role
+
+## Microcontroller Selection
+
+Final Microcontroller Choice: PIC24FJ64GA702    
+Rationale: Has the most bits of the selections as well as the most cost effective option out of the three choices. Also has multiple EUSART peripherals to support any debug while maintaining a small footprint and low power usage. The benefit of multiple I2C ports will support our sensors.  
+
+Full Description of Process
+[Microcontroller Selection](/Checkpoint2/Microcontroller-Selection.md)
 
 ## Component Selection
 
+Place Photos of Primary Parts Used
+
+Other Parts Considered
+[Component Selection](/Checkpoint2/Component-Selection.md)
+
+Bill of Materials
+
 ## Hardware Proposal
+
+Place Photo of Schematic after Updating
+
+## Software Proposal
+
+Place Photo of Flow Chart after Updating
 
