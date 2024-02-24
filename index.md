@@ -4,7 +4,7 @@
 Cup Warmer/Cooler  
 EGR 314 Team 201 Spring 2024  
 Team Members: Erik Alegria, Hunter Janisch, Joseph Pelle, Houyu Zhang  
-Preparation Date: 1/26/2024  
+Preparation Date: 2/26/2024  
 ASU Poly, EGR 314 Mon/Wed, Dr. Kelly  
 
 ## Team Organization
@@ -64,7 +64,7 @@ Other Parts Considered
 [Component Selection](/Checkpoint2/Component-Selection.md)
 
 Bill of Materials
-
+![Bill of Materials](/Checkpoint2/BillofMaterials.png)
 ## Hardware Proposal
 
 Place Photo of Schematic after Updating
