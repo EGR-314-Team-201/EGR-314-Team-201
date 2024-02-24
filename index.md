@@ -36,7 +36,7 @@ Explore our product's design journey through our ideation process. Click the lin
 
 ## Checkpoint 1 Presentation
 Watch our presentation to get a better look at our ideas and thought processes for our product.  
-[Checkpoint 1 Presentation](/Checkpoint1.md)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ELKO8Bcwy7k?si=6Dyh1avTQ3MYCgBe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Selected Design
 
