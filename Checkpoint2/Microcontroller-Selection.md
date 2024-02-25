@@ -5,16 +5,16 @@
 | Requirement                                     | Details                                                                 |
 |-------------------------------------------------|-------------------------------------------------------------------------|
 | Able to control current for switching regulator | For cooler                                                              |
-| I2C Onewire Compatibility                       |                                                                         |
+| I2C Onewire Compatibility                       | Temperature Sensor                                                       |
 | Minimum of 3 I2C connections                    | LCD, Onewire, Additional temp sensor for cooler                        |
 | Minimum of 1 SPI Connection                     | Motor                                                                   |
-| 1 PWM for Fans                                  |                                                                         |
+| 2 PWM                                           |  Fans/Heater                                                              |
 | High current and voltage application           | 12 V 6A for cooler                                                      |
 | Able to withstand high temperatures            | Potentially high temperature around device                             |
 | Protection against spills                      | Potential Spills, contact with liquids                                  |
-| Ability to handle interrupts                   |                                                                         |
+| Ability to handle interrupts                   |  Humidity Sensor                                                         |
 | Ability to connect via Phone                   | Wifi                                                                    |
-| Compatible with MPLAB x IDE                    |                                                                         |
+| Compatible with MPLAB x IDE                    | Programming Software                                                    |
 
 ---
 
