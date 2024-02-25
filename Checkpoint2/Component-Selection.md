@@ -21,7 +21,7 @@
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|  Part #: 1528-214         | - Wide operating range (-55°C - 125°C)                                       | - Not surface mounted                                            |
+|  Part # 1528-214         | - Wide operating range (-55°C - 125°C)                                       | - Not surface mounted                                            |
 | [Product Link](https://www.digikey.com/en/products/detail/adafruit-industries-llc/642/7244935)               | - Waterproof                                                                | - Bit more expensive                                             |
 |                            | - Sustainable with higher temperatures                                      | - Might be a bit trivial to get working with code                 |
 |                            | - Can ship immediately                                                      | - ±0.5°C                                                          |
