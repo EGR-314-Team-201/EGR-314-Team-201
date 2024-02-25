@@ -1,18 +1,3 @@
-# Project Requirements
-
-- Able to control current for switching regulator (for cooler)
-- I2C Onewire Compatibility
-- Minimum of 2 I2C connections (LCD, Onewire)
-- Minimum of 1 SPI Connection (Motor)
-- 1 PWM for Fans
-- High current and voltage application (12 V 6A for cooler)
-- Able to withstand high temperatures (Potentially high temperature around device)
-- Protection against spills (Potential Spills, contact with liquids)
-- Ability to handle interrupts
-- Ability to connect via Phone
-- Compatible with MPLAB x IDE
-
----
 
 ## Design Considerations
 
@@ -59,30 +44,10 @@
 
 ## Overall Pros and Cons for Chosen Microcontrollers
 
-### PIC24FJ64GA702
-**Pros:**
-- High Max Current rating
-- In circuit programming
-
-**Cons:**
-- Low program memory size
-- Only three external interrupts
-- 8-bit
-
-### PIC18F26K40-I/SO
-**Pros:**
-- All necessary pins
-- Low power consumption
-
-**Cons:**
-- Insufficient number of EUSARTs
-- No code example
-- No max current for IC (only individual pins)
-
-### PIC18F47Q10
-**Pros:**
-- Robust and reliable
-
-**Cons:**
-- 8-bit
-- No code example
+| Microcontroller         | PIC24FJ64GA702              | PIC18F26K40-I/SO            | PIC18F47Q10                  |
+|-------------------------|-----------------------------|-----------------------------|------------------------------|
+| **Pros**                | High Max Current rating     | All necessary pins          | Robust and reliable         |
+|                         | In circuit programming      | Low power consumption       |                              |
+| **Cons**                | Low program memory size     | Insufficient number of EUSARTs | 8-bit                      |
+|                         | Only three external interrupts | No code example          | No code example              |
+|                         |                    | No max current for IC (only individual pins) |                           |
