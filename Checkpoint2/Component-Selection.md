@@ -23,7 +23,7 @@
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
 |  Part # 1528-214         |                                     |                                              |
-| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250))       |    
+| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250)       |    
 |                            |                                     |                  |
 |                            |                                                     |                                                        |
 |                            |                                               |                                                                  |
