@@ -2,7 +2,7 @@
 
 - Able to control current for switching regulator (for cooler)
 - I2C Onewire Compatibility
-- Minimum of 3 I2C connections (LCD, Onewire, Additional temp sensor for cooler)
+- Minimum of 2 I2C connections (LCD, Onewire)
 - Minimum of 1 SPI Connection (Motor)
 - 1 PWM for Fans
 - High current and voltage application (12 V 6A for cooler)
