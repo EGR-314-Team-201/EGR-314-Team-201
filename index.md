@@ -36,8 +36,7 @@ Explore our product's design journey through our ideation process. Click the lin
 
 ## Checkpoint 1 Presentation
 Watch our presentation to get a better look at our ideas and thought processes for our product.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ELKO8Bcwy7k?si=6Dyh1avTQ3MYCgBe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[Watch Presentation](https://www.youtube.com/embed/ELKO8Bcwy7k?si=6Dyh1avTQ3MYCgBe)
 ## Selected Design
 
 ![Chosen Design: Device holding cup with heating pad on bottom and peltier coolers and heatsink on side](/Checkpoint2/DesignScreenshot.png)    
