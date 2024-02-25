@@ -16,6 +16,35 @@
 
 
 ## Component Selection
+### Humidity Sensor
+![Capture1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/676155ce-70c1-4b1a-8d82-1d44bcc1102f)
+
+
+| Solution                   | Pros                                                                         | Cons                                                              |
+|----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
+|  Part # 1528-214         |                                     |                                              |
+| [Product Link](https://www.digikey.com/en/products/detail/adafruit-industries-llc/642/7244935)       |    
+|                            |                                     |                  |
+|                            |                                                     |                                                        |
+|                            |                                               |                                                                  |
+|                            |                                        |                                                                 |
+|                            |                                      |                                                                 |
+|                            |                                                        |                                                                  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Temperature Sensor
 ![Capture](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fa50dd98-fdc1-481f-8c3d-18cd185b0c0a)
 
