@@ -51,3 +51,8 @@
 | **Cons**                | Low program memory size     | Insufficient number of EUSARTs | 8-bit                      |
 |                         | Only three external interrupts | No code example          | No code example              |
 |                         |                    | No max current for IC (only individual pins) |                           |
+
+
+---
+# Final Microcontroller Choice: PIC24FJ64GA702
+Rationale: Has the most bits of the selections as well as the most cost effective option out of the three choices. Also has multiple EUSART peripherals to support any debug while maintaining a small footprint and low power usage. The benefit of multiple I2C ports will support our sensors.
