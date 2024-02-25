@@ -23,7 +23,7 @@
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
 |  Part # 1528-214         |                                     |                                              |
-| [Product Link](https://www.digikey.com/en/products/detail/adafruit-industries-llc/642/7244935)       |    
+| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250))       |    
 |                            |                                     |                  |
 |                            |                                                     |                                                        |
 |                            |                                               |                                                                  |
