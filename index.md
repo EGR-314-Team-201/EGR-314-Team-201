@@ -58,19 +58,29 @@ Full Description of Process
 
 ### Humidity Sensor
 ![Capture1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/676155ce-70c1-4b1a-8d82-1d44bcc1102f)    
+Sensirion AG Humidity Sensor
 
 ### LCD Display
-![Capture3](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/89263135-7588-4af4-bc7b-f91fc1a3d26d)
+![Capture3](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/89263135-7588-4af4-bc7b-f91fc1a3d26d)    
+NHD-C0220BIZ-FSW-FBW-3V3M LCD Display
 
 ### Temperature Sensor
-![Capture](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fa50dd98-fdc1-481f-8c3d-18cd185b0c0a)
+![Capture](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fa50dd98-fdc1-481f-8c3d-18cd185b0c0a)    
+DS18B20 OneWire Tmeperature Sensor
 
 ### Heating Element
-![Heater](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4aee586e-7047-4cad-b90e-76cc118e12db)
+![Heater](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4aee586e-7047-4cad-b90e-76cc118e12db)    
+FIT0844 Heating Element
 
 ### Switching Voltage Regulator
 ![Reg](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1b38c35b-3765-4868-93df-429d267c72fb)
+MIC4575WU Buck Regulator
 
+### Cooling Element    
+
+PELTIER TEC 40X40X3.8MM 6.0A
+
+### 
 Other Parts Considered
 
 [Component Selection](/Checkpoint2/Component-Selection.md)
