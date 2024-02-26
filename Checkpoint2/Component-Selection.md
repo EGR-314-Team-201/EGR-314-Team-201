@@ -75,7 +75,6 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 
 
 ### Heating Element
-![Capture1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/676155ce-70c1-4b1a-8d82-1d44bcc1102f)
 
 
 | Solution                   | Pros                                                                         | Cons                                                              |
