@@ -22,14 +22,11 @@
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|  Part # 1528-214         |                                     |                                              |
-| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250)       |    
+|  Part # 1528-214         |    Low Power Consumption                                 |       Low Max Supply Voltage(Max 3.6V)                                       |
+| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250)       |    I2c
 |                            |                                     |                  |
-|                            |                                                     |                                                        |
-|                            |                                               |                                                                  |
-|                            |                                        |                                                                 |
-|                            |                                      |                                                                 |
-|                            |                                                        |                                                                  |
+|                            |      Temperature + Humidity Tracking Capabilites                                               |                                                        |
+
 
 
 
