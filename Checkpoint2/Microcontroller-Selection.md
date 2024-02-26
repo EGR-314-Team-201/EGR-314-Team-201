@@ -56,5 +56,7 @@
 ---
 # Final Microcontroller Choice: PIC24FJ64GA702
 Rationale: Has the most bits of the selections as well as the most cost effective option out of the three choices. Also has multiple EUSART peripherals to support any debug while maintaining a small footprint and low power usage. The benefit of multiple I2C ports will support our sensors.
+
+
 ![Microcontroller](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/a904a863-83e1-453f-9e37-92894ca83592)
 
