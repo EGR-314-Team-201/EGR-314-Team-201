@@ -75,12 +75,12 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 
 
 ### Heating Element
-
+![Heater](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/d659f6dd-6a02-4e4b-bb62-f251d042227d)
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
 |  Part # 	
-1738-FIT0844-ND        |               Can ship immediately                       |                                              |
+1738-FIT0844-ND        |               Can ship immediately                       |       No Datasheet                                       |
 | [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250](https://www.digikey.com/en/products/detail/dfrobot/FIT0844/15848103 )        |  Inexpensive  
 |                            |       AC/DC capable                              |                  |
 |                            |       High heat transfer Rate                                              |                                                        |
