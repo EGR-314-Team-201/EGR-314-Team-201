@@ -78,7 +78,7 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
 |  Part # 	
 1738-FIT0844-ND        |               Can ship immediately                       |       No Datasheet                                       |
-| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250](https://www.digikey.com/en/products/detail/dfrobot/FIT0844/15848103 )        |  Inexpensive  
+| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250](https://www.digikey.com/en/products/detail/dfrobot/FIT0844/15848103 )        |  Inexpensive  | Small Heating area 35 x 15 mm  
 |                            |       AC/DC capable                              |                  |
 |                            |       High heat transfer Rate                                              |                                                        |
 |                            |               Low Power Consumption
