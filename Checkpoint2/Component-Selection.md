@@ -51,10 +51,7 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 |                            | - Sustainable with higher temperatures                                      | - Slightly more expensive                 |
 |                            | - White Backlight(Black Letters)                                                  |                                                         |
 |                            | - Can Ship Immediately                                           |                                                                  |
-|                            | - 16x2(characters/line)                                          |                                                                 |
-|                            |                                        |                                                                 |
-|                            |                                                        |                                                                  |
-
+|                            | - 16x2(characters/line)                                          |                                                                 |            
 
 
 ### Temperature Sensor
