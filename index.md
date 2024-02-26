@@ -75,6 +75,10 @@ Other Parts Considered
 
 [Component Selection](/Checkpoint2/Component-Selection.md)
 
+Power Budget
+
+[Power Budget](/Checkpoint2/Power-Budget.pdf)
+
 Bill of Materials
 ![Bill of Materials](/Checkpoint2/BillofMaterials.png)
 ## Hardware Proposal
