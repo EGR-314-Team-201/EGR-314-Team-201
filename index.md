@@ -66,6 +66,10 @@ Full Description of Process
 ![Capture](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fa50dd98-fdc1-481f-8c3d-18cd185b0c0a)
 
 ### Heating Element
+![Heater](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4aee586e-7047-4cad-b90e-76cc118e12db)
+
+### Switching Voltage Regulator
+![Reg](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1b38c35b-3765-4868-93df-429d267c72fb)
 
 Other Parts Considered
 
