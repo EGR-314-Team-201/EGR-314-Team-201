@@ -93,7 +93,7 @@ Bill of Materials
 ![Bill of Materials](/Checkpoint2/BillofMaterials.png)
 ## Hardware Proposal
 
-[Hardware Proposal](/EGR314_HardwareProposal_v2.pdf)
+[Hardware Proposal](/Checkpoint2/EGR314_HardwareProposal_v2.pdf)
 
 ## Software Proposal
 
