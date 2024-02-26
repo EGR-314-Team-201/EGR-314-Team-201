@@ -87,3 +87,52 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 |                            |               Low Power Consumption
                                 |                                                                  |
      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Power Budget](https://docs.google.com/spreadsheets/d/1HUIY-lxApwEYJuugOoQeQohUKihOL6_E/edit#gid=1442980976 )
