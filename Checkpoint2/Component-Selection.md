@@ -122,10 +122,10 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 ![Fan](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/cbf01ae9-2543-4064-9e3a-ed5d23832137)
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|  Part #   603-1159-ND       |                                       |                                           |
-| [Product Link]( https://www.digikey.com/en/products/detail/delta-electronics/EFC0812DB-F00/1850528)              |                                                             |                                             |
-|                            |                                     |                  |
-|                            |                                                      |                                                      |
+|  Part #   603-1159-ND       |    PWM Control                                   |                                           |
+| [Product Link]( https://www.digikey.com/en/products/detail/delta-electronics/EFC0812DB-F00/1850528)              |     Ball Bearing which increases longevity                                                        |     Noise level at 41 dBA                                        | 
+|                            |         Air Flow at 48.8 CFM                        |                  |
+|                            |        Compact size 80 x 80 mm                                              |                                                      |
 |                            |                                               |                                                                  |
 |                            |                                            |                                                                 |
 |                            |                                       |                                                                 |
