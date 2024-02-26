@@ -184,4 +184,4 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 
 
 ### Power Budget
-[Power Budget](https://docs.google.com/spreadsheets/d/1HUIY-lxApwEYJuugOoQeQohUKihOL6_E/edit#gid=1442980976 )
+For detailed information on the power budget, including a list of major components, assignment to power rails, voltage regulator selection, external power source details, and battery life calculation, please refer to the [Power Budget Document](https://docs.google.com/spreadsheets/d/1HUIY-lxApwEYJuugOoQeQohUKihOL6_E/edit#gid=1442980976 )
