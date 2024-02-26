@@ -77,7 +77,7 @@ Other Parts Considered
 
 Power Budget
 
-[Power Budget](Checkpoint2/Power Budget.pdf)
+[Power Budget](/Checkpoint2/Power-Budget.pdf)
 
 Bill of Materials
 ![Bill of Materials](/Checkpoint2/BillofMaterials.png)
