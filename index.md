@@ -44,8 +44,8 @@ Description: This concept acts as something to place your drink in. The panel on
 
 ## Block Diagram
 
-Place Image After Updating With Each Teammate Role
-
+![Block Diagram-314 (1)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/7c199581-b62c-4368-8597-aeb59fae2951)
+Full Description of Team member roles[Block Diagram](/Checkpoint2/Block-Diagram.md)
 ## Microcontroller Selection
 
 Final Microcontroller Choice: PIC24FJ64GA702    
@@ -84,7 +84,7 @@ PELTIER TEC 40X40X3.8MM 6.0A
 ### Additional Details
 [Component Selection](/Checkpoint2/Component-Selection.md)
 
-Power Budget
+### Power Budget
 
 [Power Budget](/Checkpoint2/Power-Budget.pdf)
 
