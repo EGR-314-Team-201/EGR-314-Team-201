@@ -85,9 +85,7 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 |                            |       AC/DC capable                              |                  |
 |                            |       High heat transfer Rate                                              |                                                        |
 |                            |               Low Power Consumption
-                                |                                                                  |
-     
-
+                              
 
 
 
