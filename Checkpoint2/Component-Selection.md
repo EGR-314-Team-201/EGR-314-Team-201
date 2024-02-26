@@ -126,10 +126,7 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 | [Product Link]( https://www.digikey.com/en/products/detail/delta-electronics/EFC0812DB-F00/1850528)              |     Ball Bearing which increases longevity                                                        |     Noise level at 41 dBA                                        | 
 |                            |         Air Flow at 48.8 CFM                        |  Draws more power and current than similar fans                |
 |                            |        Proportional size of 80 x 80 mm                                              |                                                      |
-|                            |      Has a speed sensor feature (Tach)                                         |                                                                  |
-|                            |                                            |                                                                 |
-|                            |                                       |                                                                 |
-|                            |                                                     |                                                                  |
+|                            |      Has a speed sensor feature (Tach)                                         |                                                                  |                                                                                                                 
 
 
 
