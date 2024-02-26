@@ -73,7 +73,7 @@ DS18B20 OneWire Tmeperature Sensor
 FIT0844 Heating Element
 
 ### Switching Voltage Regulator
-![Reg](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1b38c35b-3765-4868-93df-429d267c72fb)
+![Reg](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1b38c35b-3765-4868-93df-429d267c72fb)    
 MIC4575WU Buck Regulator
 
 ### Cooling Element    
