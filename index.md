@@ -80,9 +80,7 @@ MIC4575WU Buck Regulator
 
 PELTIER TEC 40X40X3.8MM 6.0A
 
-### 
-Other Parts Considered
-
+### Additional Details
 [Component Selection](/Checkpoint2/Component-Selection.md)
 
 Power Budget
