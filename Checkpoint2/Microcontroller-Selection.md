@@ -27,7 +27,7 @@
 | Links (URL) to Data Sheets                       | [Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU16/ProductDocuments/DataSheets/PIC24FJ256GA705-Family-Data-Sheet-DS30010118E.pdf)             | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18LF26-45-46K40-Data-Sheet-DS40001816F.pdf)             | [Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)             |
 | Links (URL) to Application Notes                  | [Notes](https://www.microchip.com/en-us/product/PIC24FJ64GA702)                 | [Notes](https://www.microchip.com/en-us/product/PIC18F26K40#sampling-options)                 | [Notes](https://www.microchip.com/en-us/product/PIC18F47Q10)                 |
 | Links (URL) to Code Examples                     | [Code](https://www.microchip.com/en-us/product/PIC24FJ64GA702#document-table)                  | [Code](Link)                  | [Code](Link)                  |
-| Links (URL) to External Resources                | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/UserGuides/release_notes_pic24_dspic_pic32mm_v1_105.pdf)                  | [Link](Link)                  | [Link](Link)                  |
+| Links (URL) to External Resources                | [Link](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/UserGuides/release_notes_pic24_dspic_pic32mm_v1_105.pdf)                  | [Link](https://www.google.com/search?q=PIC18F26K40-I%2FSO&oq=PIC18F26K40-I%2FSO&aqs=chrome..69i57j69i58.7365j0j7&sourceid=chrome&ie=UTF-8)                  | [Link](https://www.google.com/search?q=PIC18F47Q10&rlz=1C1VDKB_enUS1049US1049&oq=PIC18F47Q10&aqs=chrome..69i57j0i512l3j0i30j69i60l3.657j0j4&sourceid=chrome&ie=UTF-8)                  |
 | Production Unit Cost                             | $ 1.88                        | $ 2.04                        | $ 1.95                        |
 | Supply Voltage Range                             | 2V-3.6V                       | 1.8V-3.6V                     | 1.8V – 5.5V                   |
 | Absolute Maximum Current for entire IC           | 200mA                         | 200mA                         | 350mA                         |
@@ -36,7 +36,7 @@
 | Available IC Packages / Footprints               | SOIC28, SSOP28, QFN28, UQFN28 | SPDIP, SOIC, SSOP, QFN, UQFN, PDIP | SPDIP28, SOIC28, SSOP28, VQFN28, QFN28 |
 | Supports External Interrupts?                   | 5 external                    | 3 external                    | 3 external                    |
 | In-System Programming Capability and Type       | ICSP, 2 pins                  | ICSP                          | ICSP                          |
-| Programming Hardware, Cost, and URL             | [Link](Link)                  | [Link](Link)                  | [Link](Link)                  |
+| Programming Hardware, Cost, and URL             | [Link](https://www.microchip.com/en-us/development-tool/PG164140)                  | [Link](https://www.microchip.com/en-us/development-tool/PG164150)                  | [Link](https://www.microchip.com/en-us/development-tool/PG164150)                  |
 | Works with MPLAB® X Integrated Development Environment (IDE)? | YES                   | YES                           | YES                           |
 | Works with Microchip Code Configurator?         | YES                           | YES                           | YES                           |
 
