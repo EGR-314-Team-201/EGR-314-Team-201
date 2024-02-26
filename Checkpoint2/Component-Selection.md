@@ -94,14 +94,10 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|  Part #          |                                       |                                           |
-| [Product Link](               |                                                             |                                             |
-|                            |                                     |                  |
-|                            |                                                      |                                                      |
-|                            |                                               |                                                                  |
-|                            |                                            |                                                                 |
-|                            |                                       |                                                                 |
-|                            |                                                     |                                                                  |
+|  Part # MIC4575WU         |   Output has a wide range (1.2-37V)                             |            Larger in Size compared to others                               |
+| [Product Link](https://www.digikey.com/en/products/detail/microchip-technology/MIC4575WU-TR/1029999)               | Familiarity- previously used                                                         |            Low Stock                                 |
+|                            |      Adjustable output                               |            Expensive      |
+                                    
 
 
 
@@ -126,8 +122,8 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 ![Fan](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/cbf01ae9-2543-4064-9e3a-ed5d23832137)
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|  Part #          |                                       |                                           |
-| [Product Link](               |                                                             |                                             |
+|  Part #   603-1159-ND       |                                       |                                           |
+| [Product Link]( https://www.digikey.com/en/products/detail/delta-electronics/EFC0812DB-F00/1850528)              |                                                             |                                             |
 |                            |                                     |                  |
 |                            |                                                      |                                                      |
 |                            |                                               |                                                                  |
