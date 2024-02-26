@@ -42,6 +42,20 @@
 
 
 
+### LCD Display
+![Capture3](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/89263135-7588-4af4-bc7b-f91fc1a3d26d)
+
+| Solution                   | Pros                                                                         | Cons                                                              |
+|----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
+|  Part # 	
+NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      | - Size                                          |
+| [Product Link](https://www.digikey.com/en/products/detail/adafruit-industries-llc/642/7244935](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-C0220BIZ-FSW-FBW-3V3M/2626407 )               | - 2.7-3.6V Supply Voltage                                                               | - Limited Color Selection                          |
+|                            | - Sustainable with higher temperatures                                      | - Slightly more expensive                 |
+|                            | - White Backlight(Black Letters)                                                  |                                                         |
+|                            | - Can Ship Immediately                                           |                                                                  |
+|                            | - 16x2(characters/line)                                          |                                                                 |
+|                            |                                        |                                                                 |
+|                            |                                                        |                                                                  |
 
 
 
@@ -58,3 +72,19 @@
 |                            | - Temperature-limit alarm system                                            |                                                                 |
 |                            | - Multiple sensors can share one pin                                       |                                                                 |
 |                            | - Temperature Probe                                                        |                                                                  |
+
+
+### Heating Element
+![Capture1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/676155ce-70c1-4b1a-8d82-1d44bcc1102f)
+
+
+| Solution                   | Pros                                                                         | Cons                                                              |
+|----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
+|  Part # 	
+1738-FIT0844-ND        |               Can ship immediately                       |                                              |
+| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250](https://www.digikey.com/en/products/detail/dfrobot/FIT0844/15848103 )        |  Inexpensive  
+|                            |       AC/DC capable                              |                  |
+|                            |       High heat transfer Rate                                              |                                                        |
+|                            |               Low Power Consumption
+                                |                                                                  |
+     
