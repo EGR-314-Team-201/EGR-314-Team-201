@@ -89,8 +89,8 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 
 
 
-### Cooling Unit
-![Cooler](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/0cea92ff-58d0-4856-ae9f-d0ea27a3c161)
+### Switching Voltage Regulator
+![Reg](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1b38c35b-3765-4868-93df-429d267c72fb)
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
@@ -106,8 +106,9 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 
 
 
-### Switching Voltage Regulator
-![Reg](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1b38c35b-3765-4868-93df-429d267c72fb)
+
+### Cooling Unit
+![Cooler](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/0cea92ff-58d0-4856-ae9f-d0ea27a3c161)
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
