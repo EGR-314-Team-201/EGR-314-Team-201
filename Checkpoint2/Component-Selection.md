@@ -111,14 +111,10 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|  Part #          |                                       |                                           |
-| [Product Link](               |                                                             |                                             |
+|  Part # 	
+345-1739-ND         |      Low Current                                 |       Least Surface Area                                    |
+| [Product Link](https://www.digikey.com/en/products/detail/wakefield-vette/TEC-40-36-127/9741967 )               |     Inexpensive                                                        |                                             |
 |                            |                                     |                  |
-|                            |                                                      |                                                      |
-|                            |                                               |                                                                  |
-|                            |                                            |                                                                 |
-|                            |                                       |                                                                 |
-|                            |                                                     |                                                                  |
 
 
 
