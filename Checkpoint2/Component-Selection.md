@@ -111,8 +111,8 @@ NHD-C0220BIZ-FSW-FBW-3V3M-ND       | - I2c                                      
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
 |  Part # 	
 345-1739-ND         |      Low Current                                 |       Least Surface Area                                    |
-| [Product Link](https://www.digikey.com/en/products/detail/wakefield-vette/TEC-40-36-127/9741967 )               |     Inexpensive                                                        |                                             |
-|                            |                                     |                  |
+| [Product Link](https://www.digikey.com/en/products/detail/wakefield-vette/TEC-40-36-127/9741967 )               |     Inexpensive                                                        |      Relatively high power consumption 3.96 W                                     |
+|                            |    Sealed Silicone RTV to protect from moisture and corrosion                                 |   Noise level 41 dBA               |
 
 
 
