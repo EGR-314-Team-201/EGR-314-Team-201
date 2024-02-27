@@ -92,7 +92,8 @@ Bill of Materials
 ![Bill of Materials](/Checkpoint2/BillofMaterials.png)
 ## Hardware Proposal
 
-[Hardware Proposal](/Checkpoint2/EGR314_HardwareProposal_v2.pdf)
+![1708993377669-685aaf96-a387-49b2-9b43-d82ece39cacf_1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/23f246a0-71f4-4b4b-8c47-dc12821e881c)
+
 
 ## Software Proposal
 
