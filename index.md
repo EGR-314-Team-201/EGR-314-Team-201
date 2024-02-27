@@ -86,8 +86,8 @@ PELTIER TEC 40X40X3.8MM 6.0A
 
 ### Power Budget
 
-![Power Budget 1](/Checkpoint2/Power-Budget_Page_1.pdf)    
-![Power Budget 2](/Checkpoint2/Power-Budget_Page_2.pdf)    
+![Power Budget 1](/Checkpoint2/Power-Budget_Page_1.png)    
+![Power Budget 2](/Checkpoint2/Power-Budget_Page_2.png)    
 
 ### Bill of Materials
 ![Bill of Materials](/Checkpoint2/BillofMaterials.png)
