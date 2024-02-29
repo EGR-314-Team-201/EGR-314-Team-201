@@ -78,14 +78,12 @@ MIC4575WU Buck Regulator
 
 ### Cooling Element    
 ![Cooler](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1e6cd210-a69a-40d5-a426-fd1ccd611983)    
-
 PELTIER TEC 40X40X3.8MM 6.0A
 
 
 ### Fan
-![Fan](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/cbf01ae9-2543-4064-9e3a-ed5d23832137)
-
-
+![Fan](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/cbf01ae9-2543-4064-9e3a-ed5d23832137)    
+FAN AXIAL 80X15MM 12VDC WIRE
 
 
 
