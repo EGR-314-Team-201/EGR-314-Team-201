@@ -27,13 +27,13 @@ Regulatory Instances - Complying with laws concerning contamination of liquids, 
 _____________
 - Regular Daily Use: Users can carry the device to keep their beverages at the desired temperature throughout the day.
 
-- Travel: Ideal for individuals on the go, ensuring drinks remain at the preferred temperature during travel.
+- Travel: Ideal for individuals on the go, our device is small and compact ensuring you can take this device with you wherever you go.
  _____________
 
-User Story #1: Alex, a 29-year-old office professional, has a busy lifestyle that involves commuting, working long hours, and staying hydrated throughout the day. Alex recently purchased a smart thermos equipped with temperature detection and heating/cooling capabilities.Alex pours a cup of coffee into the smart thermos before leaving for work in the morning.The thermos, equipped with a temperature sensor, instantly detects the initial temperature of the coffee.During the commute, Alex checks the smart thermos app on the smartphone.The app displays the current temperature of the coffee and ensures it's at the desired warmth.
+User Story #1: Alex, a 25-year-old student, is studying for exams and needs to stay focused and alert. Alex uses a BevRight with temperature detection and heating/cooling capabilities to keep their favorite tea at the perfect temperature while studying. Alex sets the desired temperature using the smart mug's app and pours their tea into the mug. The app displays the current temperature of the tea, allowing Alex to ensure it stays within their preferred range for optimal taste and enjoyment.
 _____________
 
-User Story #2: Taylor, a 34-year-old outdoor enthusiast, has a passion for hiking and camping. Taylor recently acquired a high-tech thermos designed for outdoor adventures, equipped with temperature detection and the ability to cool or heat liquids.Taylor fills the thermos with a favorite hot beverage before embarking on a morning hike.The temperature sensor in the thermos accurately measures the initial temperature of the drink.Taylor finds a scenic spot to take a break and enjoy the surroundings.The thermos, designed for outdoor durability, keeps the beverage at the right temperature despite changes in external conditions.
+User Story #2: Chris, a 40-year-old business traveler, frequently attends meetings and conferences. Chris relies on his BevRight designed for on-the-go professionals, equipped with temperature detection and the ability to cool or heat liquids. Chris fills his travel mug with his preferred beverage before heading to a meeting. The temperature sensor in the mug ensures the drink stays at the desired temperature throughout the day, even during long meetings. The heating/cooling pads ensure the drink is at his desired temperature throughout all times of the day.
 _____________
 
 # Design Aspects
@@ -59,6 +59,7 @@ _____________
 ## 4. Customization
 4.1- Product should be tailored to customer needs.<br>
 4.2- Product should be easy to assemble with common tools.<br>
+4.3- Product should be easy to operate.
 ## 5. Manufacturing
 5.1- Use high-quality materials for durability.<br>
 5.2- Include spare parts for potential damages.<br>
