@@ -44,7 +44,8 @@ Description: This concept acts as something to place your drink in. The panel on
 
 ## Block Diagram
 
-![Block Diagram-314 (2)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4010a2d8-28ff-42a3-8749-42cb98c6cf24)
+![Block Diagram-314 (4)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/d6b83346-4201-40fb-bf4d-6f6310e31d1d)
+
 Full Description of Team member roles  [Block Diagram](/Checkpoint2/Block-Diagram.md)
 ## Microcontroller Selection
 ![PIC24FJ64GA702](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974555/5558f557-7318-44fb-9041-7ebc4dd5bd85)    
