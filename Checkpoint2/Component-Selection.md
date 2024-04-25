@@ -17,15 +17,15 @@
 
 ## Component Selection
 ### Humidity Sensor
-![Capture1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/676155ce-70c1-4b1a-8d82-1d44bcc1102f)
+![bme280](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/40eadf4d-8bd7-4250-92a1-e538e08349a8)
 
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
 |  Part # 1528-214         |    Low Power Consumption                                 |       Low Max Supply Voltage(Max 3.6V)                                       |
-| [Product Link](https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250)       |    I2C  | Limited Temperature range 
+| [Product Link]([https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306))       |    I2C  | Limited Temperature range 
 |                            |    Temperature + Humidity Tracking Capabilites                                 |    Slightly more expesive in relation to other sensors                 |
-|         |      8 sec response time |     |
+|         |      1 sec response time |     |
                                                            
 
 
