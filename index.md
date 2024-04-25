@@ -99,7 +99,7 @@ FAN AXIAL 80X15MM 12VDC WIRE
 ![Bill of Materials](/Checkpoint2/BillofMaterials.png)
 ## Hardware Proposal
 
-[EGR314_Team201_TeamSchematic (1).pdf](https://github.com/EGR-314-Team-201/EGR-314-Team-201/files/15102832/EGR314_Team201_TeamSchematic.1.pdf)
+![EGR314_Team201_TeamSchematic 1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/61aa15d5-eda9-40da-b69b-26be1c58f23a)
 
 
 [Hardware Proposal Document](/Checkpoint2/EGR314_Team201_TeamSchematic.pdf)
