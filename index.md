@@ -117,10 +117,6 @@ FAN AXIAL 80mm L x 80mm H <br>
 ![Bill of Materials](/Checkpoint2/BillofMaterials.png)
 ## Hardware Proposal
 
-![EGR314_Team201_TeamSchematic 1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fad725d7-cb15-40a9-99fd-68837a511370)
-
-
-
 [Hardware Proposal Document](/Checkpoint2/EGR314_Team201_TeamSchematic.pdf)
 
 ## Software Proposal
@@ -128,4 +124,7 @@ FAN AXIAL 80mm L x 80mm H <br>
 ![Software Proposal_team201-Main Loop (1)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/c47c1aee-3902-43ac-badb-b81f9a90a468)
 
 
+## Final Hardware Implementation
+
+![EGR314_Team201_TeamSchematic 1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fad725d7-cb15-40a9-99fd-68837a511370)
 
