@@ -22,7 +22,7 @@
 
 | Solution                   | Pros                                                                         | Cons                                                              |
 |----------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|  Part # 1528-214         |    Low Power Consumption                                 |       Low Max Supply Voltage(Max 3.6V)                                       |
+|  Part # 828-1063-2-ND         |    Low Power Consumption                                 |       Low Max Supply Voltage(Max 3.6V)                                       |
 | [Product Link]([https://www.digikey.com/en/products/detail/sensirion-ag/SHT30-DIS-B2-5KS/5872250](https://www.digikey.com/en/products/detail/bosch-sensortec/BME280/6136306))       |    I2C  | Limited Temperature range 
 |                            |    Temperature + Humidity Tracking Capabilites                                 |    Slightly more expesive in relation to other sensors                 |
 |         |      1 sec response time |     |
