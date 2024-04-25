@@ -59,32 +59,46 @@ Full Description of Process
 
 ### Humidity Sensor
 ![Capture1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/676155ce-70c1-4b1a-8d82-1d44bcc1102f)    
-Sensirion AG Humidity Sensor
+Sensirion AG Humidity Sensor<br>
+
 
 ### LCD Display
 ![Capture3](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/89263135-7588-4af4-bc7b-f91fc1a3d26d)    
-NHD-C0220BIZ-FSW-FBW-3V3M LCD Display
+NHD-C0220BIZ-FSW-FBW-3V3M LCD Display<br>
+Usable with 2.7-3.6V <br>
+
+
 
 ### Temperature Sensor
 ![Capture](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fa50dd98-fdc1-481f-8c3d-18cd185b0c0a)    
 DS18B20 OneWire Tmeperature Sensor
+Usable with 3.0-5.5V<br>
+±0.5°C Accuracy from -10°C to +85°C<br> 
+Temperature Range: -55°C ~ 125°C <br>
 
 ### Heating Element
 ![Heater](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4aee586e-7047-4cad-b90e-76cc118e12db)    
-FIT0844 Heating Element
+FIT0844 Heating Element <br>
+Usable with 5V, 8 W <br>
+Max Temperature: 100°C <br>
+
 
 ### Switching Voltage Regulator
 ![Reg](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1b38c35b-3765-4868-93df-429d267c72fb)    
-MIC4575WU Buck Regulator
+MIC4575WU Buck Regulator<br>
+Adjustable Output Voltage Regulator<br>
+4-24V Input; 1.23v-20V Output<br>
 
 ### Cooling Element    
 ![Cooler](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1e6cd210-a69a-40d5-a426-fd1ccd611983)    
-PELTIER TEC 40X40X3.8MM 6.0A
+PELTIER TEC 40X40X3.8MM 6.0A <br>
+Peltier Module 51.4W @ 27°C 6 A 90°C <br>
 
 
 ### Fan
 ![Fan](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/cbf01ae9-2543-4064-9e3a-ed5d23832137)    
-FAN AXIAL 80X15MM 12VDC WIRE
+FAN AXIAL 80mm L x 80mm H <br>
+12VDC, 4 Wire Leads, 3.96W <br>
 
 
 
