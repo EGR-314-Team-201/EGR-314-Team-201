@@ -117,7 +117,7 @@ FAN AXIAL 80mm L x 80mm H <br>
 ![Bill of Materials](/Checkpoint2/BillofMaterials.png)
 ## Hardware Proposal
 
-[Hardware Proposal Document](/Checkpoint2/EGR314_Team201_TeamSchematic.pdf)
+[Hardware Proposal Document](/Checkpoint2/Hardware_Prop_A3.pdf)
 
 ## Software Proposal
 
