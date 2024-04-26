@@ -128,4 +128,4 @@ FAN AXIAL 80mm L x 80mm H <br>
 
 ![EGR314_Team201_TeamSchematic 1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fad725d7-cb15-40a9-99fd-68837a511370)
 
-[Bill of Materials](/Checkpoint2/Bill of Materials.xlsx - Sheet1.pdf)
+https://github.com/EGR-314-Team-201/EGR-314-Team-201/blob/main/Checkpoint2/Bill%20of%20Materials%20.xlsx%20-%20Sheet1.pdf
