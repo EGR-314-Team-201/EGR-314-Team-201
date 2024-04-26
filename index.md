@@ -139,6 +139,7 @@ PCB Without Components
 
 
 
-![IMG_1231](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/cfe657c3-8802-4259-a607-3a5ae81c37d9)
+![IMG_1231](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/bd8c12b8-8d1d-426e-8115-28a43e108205)
+
 
 PCB With Components
