@@ -119,9 +119,6 @@ FAN AXIAL 80mm L x 80mm H <br>
 
 [Hardware Proposal Document](/Checkpoint2/Hardware_Prop_A3.pdf)
 
-## Software Proposal
-
-![Software Proposal_team201-Main Loop (1)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/c47c1aee-3902-43ac-badb-b81f9a90a468)
 
 
 ## Final Hardware Implementation
@@ -143,3 +140,11 @@ PCB Without Components
 
 
 PCB With Components
+
+
+
+
+
+
+## Final Software Implementation
+![Team201 Software Proposal](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/cea38bf1-d010-4664-8fbd-67abd882f013)
