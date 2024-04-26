@@ -134,4 +134,9 @@ FAN AXIAL 80mm L x 80mm H <br>
 
 # Team Final PCB
 ![Resized_20240425_173439](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/c8b822ca-5a4a-4210-929f-9941cdda1393)
+PCB Without Components
 
+
+
+![IMG_1231](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/cfe657c3-8802-4259-a607-3a5ae81c37d9)
+PCB With Components
