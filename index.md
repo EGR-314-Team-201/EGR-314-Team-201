@@ -130,7 +130,7 @@ FAN AXIAL 80mm L x 80mm H <br>
 
 
 [Bill Of Materials](/Checkpoint2/Bill_of_Materials.pdf)
-
+In the bill of materials you will find a detailed list of all of the components we used to build the final prototype.
 
 ### Team Final PCB
 ![Resized_20240425_173439](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/c8b822ca-5a4a-4210-929f-9941cdda1393)
