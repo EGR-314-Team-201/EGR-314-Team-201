@@ -37,3 +37,5 @@ Final Prototype
 
 
 If you were to create a "Version 2.0" of your hardware design, discuss what could be improved in the hardware design and why it should be improved. Use the schematic above to support the discussion. (½ page minimum)
+
+One key improvement could be implementing a more efficent power management system, instead of using 12V AC-DC wall power supply we use something like a battery so that we can market it as being a mobile- on the go device. We could use a rechargeable battery and include pwoer-saving features to improve portability and help to reduce the energy consumption.
