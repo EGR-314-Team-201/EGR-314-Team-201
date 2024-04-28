@@ -4,6 +4,13 @@
 Discuss how the functionality of this schematic satisfies user needs and product requirements though an in depth discussion of function.
 Discuss your team's design and decision making process related to this section
 
+This semester we were assigned with creating a mobile weather station, so our group decided to think outside the box and created a mobile weather station for your drink. Introducing the BevRight, The BevRight System incorporates a wide range of compoenets to help ensure effecitve temperature reguation for beverages. The BOSCH BME280 Humidity sensor and DSB1820 One Wire temperature sensor provide accuracte measurements, while the LCD display offers a user-friendly interface for temperature monitoring. The FIT0844 Heating Element along with the Peltier TEC Cooling unit, enables the system to adjust the beverage temperatures as desired. The MIC4574WU Buck Regulator ensures stable power delivery from the 12V AC-DC Wall power supply, while the Axial 80mm Fan helps to dissipate heat and cool the module. This design allows the user to easily control and maintain temperature of whatver beverage they may be drinking.
+
+
+
+
+
+
 
 [Bill Of Materials](/Checkpoint2/Bill_of_Materials.pdf)
 
@@ -17,6 +24,11 @@ PCB Without Components
 
 ![IMG_1231](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/bd8c12b8-8d1d-426e-8115-28a43e108205)
 
+
+
+
+Final Prototype
+![IMG_1230 (1)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/8edec8d2-95a4-45e5-810d-136949d0143d)
 
 
 
