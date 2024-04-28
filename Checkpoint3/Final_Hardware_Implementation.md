@@ -30,7 +30,9 @@ PCB Without Components
 Final Prototype
 ![IMG_1230 (1)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/8edec8d2-95a4-45e5-810d-136949d0143d)
 
-![IMG_1234](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/1df29d04-6f6f-4b11-84c5-38bd0a65b6e1)
+
+![IMG_1234](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/48f5e141-ac27-422a-8f7d-0ec0b015ca49)
+
 
 
 
