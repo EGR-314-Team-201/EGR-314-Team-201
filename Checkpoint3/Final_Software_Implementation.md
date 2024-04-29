@@ -8,9 +8,9 @@ Discuss how the functionality of this software diagram satisfies user needs and 
 Numbered list of the top 5 biggest changes to your software design since the software proposal. Include several sentences for each change describing the issue and how you resolved it. Use the UML diagrams above to support the discussion.
 
 1. Removing the humidity interrupt
-2. Changing the Tempruature control interrupts to timer interrupts
+2. Changing the Temperature control interrupts to timer interrupts
 3. Changing Button polling to interrupts
-4. Changing screens deending on time instead of all at once
+4. Changing screens depnding on time instead of all at once
 5. Including ESP32 serial input to change Desired Temperature 
 
 
