@@ -122,7 +122,7 @@ FAN AXIAL 80mm L x 80mm H <br>
 
 
 ## Final Hardware Implementation
-
+For a more detailed look into our Final Hardware Implementation look here [Final Hardware Implementation Document](/Checkpoint3/Final_Hardware_Implementation.md)
 ![EGR314_Team201_TeamSchematic 1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fad725d7-cb15-40a9-99fd-68837a511370)
 
 
@@ -130,15 +130,13 @@ FAN AXIAL 80mm L x 80mm H <br>
 
 
 ### Team Final PCB
-
 #### PCB Without Components
 ![Resized_20240425_173439](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/c8b822ca-5a4a-4210-929f-9941cdda1393)
 
-
-
-
 #### PCB With Components
 ![IMG_1231](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/bd8c12b8-8d1d-426e-8115-28a43e108205)
+
+
 
 
 -----------------
