@@ -18,16 +18,13 @@ This semester we were assigned with creating a mobile weather station, so our gr
 ### Team Final PCB
 ![Resized_20240425_173439](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/c8b822ca-5a4a-4210-929f-9941cdda1393)
 
-PCB Without Components
-
-
-
+#### PCB Without Components
 ![IMG_1231](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/bd8c12b8-8d1d-426e-8115-28a43e108205)
 
 
 
 
-Final Prototype
+#### Final Prototype
 ![IMG_1230 (1)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/8edec8d2-95a4-45e5-810d-136949d0143d)
 
 
