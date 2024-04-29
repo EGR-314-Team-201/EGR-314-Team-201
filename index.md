@@ -165,7 +165,6 @@ To get a more in-depth look at our Final Software Implementation please refer to
 8. Read datasheets to get better understanding of internal functions of our parts
 9. Went through signals transmitted by each device to debug both hardware and software issues
 10. Built device with user needs at the forefront
-11. 
 
 
 
