@@ -7,25 +7,19 @@ Discuss how the functionality of this software diagram satisfies user needs and 
 The software for BevRight satisfies user needs by providing the following key features:
 
 1. **Temperature Control:** The software implements code to read the temperature sensor data and adjust heating or cooling elements to maintain the desired temperature.
-
 2. **LCD Display:** Updates the LCD display with relevant information, such as current temperature, humidity, allowing users to monitor their beverage.
-
 3. **User Input Handling:** The software manages user input from Pushbuttons, enabling the user to specificy their desired temperature.
-
 4. **Timer Functionality:** Timer functionality in the software allows for changing screens or performing tasks at specific times, enhancing the user experience.
-
 5. **ESP32 Integration:** The software includes ESP32 serial input to change the desired temperature, providing users with remote adjustment capabilities.
 
+
 ### Changes Since Proposal
-Numbered list of the top 5 biggest changes to your software design since the software proposal. Include several sentences for each change describing the issue and how you resolved it. Use the UML diagrams above to support the discussion.
-## Changes Since Proposal
-1. Removing the humidity interrupt<br>
-2. Changing the Temperature control interrupts to timer interrupts.<br>
-3. Changing Button polling to interrupts.<br>
-4. Changing screens depnding on time instead of all at once.<br>
-5. Including ESP32 serial input to change Desired Temperature.<br>
 
-
+1. **Removing the humidity interrupt:** Simplified the software and reduced complexity.
+2. **Changing the Temperature control interrupts to timer interrupts:** Improved timing and efficiency of temperature control tasks.
+3. **Changing Button polling to interrupts:** Enhanced responsiveness and helped to reduce processing power.
+4. **Changing screens depending on time instead of all at once:** Provided a more dynamic and informative user interface.   
+5. **Including ESP32 serial input to change Desired Temperature:** Added convenient remote adjustment capability for users.
 
 
 
