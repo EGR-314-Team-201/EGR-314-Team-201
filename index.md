@@ -122,7 +122,10 @@ FAN AXIAL 80mm L x 80mm H <br>
 
 
 ## Final Hardware Implementation
-For a more detailed look into our Final Hardware Implementation look here [Final Hardware Implementation Document](/Checkpoint3/Final_Hardware_Implementation.md)
+To explore our Final Hardware Implementaion in greater detail, please refer to the [Final Hardware Implementation Document](/Checkpoint3/Final_Hardware_Implementation.md)
+
+
+
 ![EGR314_Team201_TeamSchematic 1](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fad725d7-cb15-40a9-99fd-68837a511370)
 
 
