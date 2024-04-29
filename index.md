@@ -108,16 +108,13 @@ FAN AXIAL 80mm L x 80mm H <br>
 ### Additional Details
 [Component Selection](/Checkpoint2/Component-Selection.md)
 
+
+
 ### Power Budget
 
 ![Power Budget 1](/Checkpoint2/Power-Budget_Page_1.png)    
 ![Power Budget 2](/Checkpoint2/Power-Budget_Page_2.png)    
 
-### Bill of Materials
-[Bill Of Materials](/Checkpoint2/Bill_of_Materials.pdf)
-## Hardware Proposal
-
-[Hardware Proposal Document](/Checkpoint2/Hardware_Prop_A3.pdf)
 
 
 
