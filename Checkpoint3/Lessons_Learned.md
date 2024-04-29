@@ -8,4 +8,5 @@
 6. Utilized the ESP32 for connecting to the MQTT server via WiFi.
 7. Found how best to market product to desired audience.
 8. Read datasheets to get better understanding of internal functions of our parts
-9. 
+9. Went through signals transmitted by each device to debug both hardware and software issues
+10. Built device with user needs at the forefront
