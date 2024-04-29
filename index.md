@@ -143,4 +143,12 @@ To explore our Final Hardware Implementaion in greater detail, please refer to t
 
 To get a more in-depth look at our Final Software Implementation please refer to [Final Software Implementation Document](/Checkpoint3/Final_Softare_Implementation.md)
 
+## Lessons Learned
+
+
+
+
+
+## Recommendations for future students
+
 
