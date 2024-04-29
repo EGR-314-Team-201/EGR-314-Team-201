@@ -14,7 +14,7 @@ The software for BevRight satisfies user needs by providing the following key fe
 
 ### Changes Since Proposal
 
-1. **Removing the humidity interrupt:** Simplified the software and reduced complexity.
+1. **Removing the humidity interrupt:** Simplified the software and reduced the complexity.
 2. **Changing the Temperature control interrupts to timer interrupts:** Improved timing and efficiency of temperature control tasks.
 3. **Changing Button polling to interrupts:** Enhanced responsiveness and helped to reduce processing power.
 4. **Changing screens depending on time instead of all at once:** Provided a more dynamic and informative user interface.   
