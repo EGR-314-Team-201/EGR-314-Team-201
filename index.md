@@ -1,7 +1,7 @@
 
-# Home
+# Bevright Home
 
-Cup Warmer/Cooler  
+Bevright  
 EGR 314 Team 201 Spring 2024  
 Team Members: Erik Alegria, Hunter Janisch, Joseph Pelle, Houyu Zhang  
 Preparation Date: 2/26/2024  
