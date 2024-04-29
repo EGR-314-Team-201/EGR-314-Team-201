@@ -23,4 +23,6 @@ The software for BevRight satisfies user needs by providing the following key fe
 
 
 
-If you were to create a "Version 2.0" of your software design, discuss what could be improved in the software design and why it should be improved. Use the UML diagrams above to support the discussion. Consider using a graphical representation of the flow that your updated software would take. What functions would you create? How would you divide up your code? How would you improve its debuggability? What peripherals or system features would you like to use or set up to make your system more reliable, stable, functional, or robust? How would you simplify, improve, or update your protocol design to support this in software? (½ page minimum)
+### "Version 2.0"
+
+If a 2.0 version were to be done, we would like to spend more time working on the dispalyed information and UI. Currently we have it so that the screen switches bewtween the temperature, desired temperature and humidity based on timers. We would like to make it so all information is shown at the same time so that the user can just look at the information they need without needing to wait. Especially for the desired temperature it was difficult to show changes made with our original UI and want to make it so it is always visable. Additionally, readding the shutoff protection using either the humidity sensor or a liquid sensor would be good for keeping the circuitry in tact.
