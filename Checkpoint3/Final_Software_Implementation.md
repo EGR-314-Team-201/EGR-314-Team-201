@@ -1,7 +1,6 @@
 ![Software Proposal_team201-Main Loop (3)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/0be1d3f6-65ad-4b9c-baf1-b15735e26527)
 
 
-Discuss how the functionality of this software diagram satisfies user needs and product requirements though an in depth discussion of function
 ## Software Functionality
 
 The software for BevRight satisfies user needs by providing the following key features:
