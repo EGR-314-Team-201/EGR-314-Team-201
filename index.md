@@ -142,7 +142,7 @@ To explore our Final Hardware Implementaion in greater detail, please refer to t
 ![IMG_1231](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/bd8c12b8-8d1d-426e-8115-28a43e108205)
 
 #### Final Prototype
-![IMG_1234](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/48f5e141-ac27-422a-8f7d-0ec0b015ca49)
+![IMG_1230 (1)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/8edec8d2-95a4-45e5-810d-136949d0143d)
 
 ## Final Software Implementation
 ![Software Proposal_team201-Main Loop (3)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/0be1d3f6-65ad-4b9c-baf1-b15735e26527)
