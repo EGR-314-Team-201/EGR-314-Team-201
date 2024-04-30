@@ -22,6 +22,13 @@ The software for BevRight satisfies user needs by providing the following key fe
 
 
 
+For an indepth look at our code please refer to [Appendix](/Appendix)
+
+
+
+
+
+
 
 ### "Version 2.0"
 
