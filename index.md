@@ -174,4 +174,4 @@ To get a more in-depth look at our Final Software Implementation please refer to
 
 
 
-[Appendix](/Appendix/)
+In the [Appendix](/Appendix/), you will find a detailed list of all our code and the MPLAB setup we utilized to make our device work.
