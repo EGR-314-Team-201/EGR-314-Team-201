@@ -84,7 +84,7 @@ Usable with 3.0-5.5V<br>
 Temperature Range: -55°C ~ 125°C <br>
 
 ### Heating Element
-![Heater](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4aee586e-7047-4cad-b90e-76cc118e12db)<br>
+![fit0844](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/65b572f5-4d83-4025-bff8-3c8338ef8b40)<br>
 FIT0844 Heating Element <br>
 Usable with 5V, 8 W <br>
 Max Temperature: 100°C <br>
