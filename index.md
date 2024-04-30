@@ -63,28 +63,28 @@ Full Description of Process
 ## Final Component Selection
 
 ### Humidity Sensor
-![bme280](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4218ed1d-7fee-49be-9b0d-031ca21b2fb2)
+![bme280](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4218ed1d-7fee-49be-9b0d-031ca21b2fb2)<br>
 BOSCH BME280 Humidity sensor <br>
 Usable with 1.7-3.6V <br>
 8 pins, 1 second Response Time <br>
 
 
 ### LCD Display
-![Capture3](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/89263135-7588-4af4-bc7b-f91fc1a3d26d)    
+![Capture3](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/89263135-7588-4af4-bc7b-f91fc1a3d26d)   
 NHD-C0220BIZ-FSW-FBW-3V3M LCD Display<br>
 Usable with 2.7-3.6V <br>
 
 
 
 ### Temperature Sensor
-![Capture](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fa50dd98-fdc1-481f-8c3d-18cd185b0c0a)    
+![Capture](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/fa50dd98-fdc1-481f-8c3d-18cd185b0c0a)<br>
 DS18B20 OneWire Tmeperature Sensor
 Usable with 3.0-5.5V<br>
 ±0.5°C Accuracy from -10°C to +85°C<br> 
 Temperature Range: -55°C ~ 125°C <br>
 
 ### Heating Element
-![Heater](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4aee586e-7047-4cad-b90e-76cc118e12db)    
+![Heater](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4aee586e-7047-4cad-b90e-76cc118e12db)<br>
 FIT0844 Heating Element <br>
 Usable with 5V, 8 W <br>
 Max Temperature: 100°C <br>
