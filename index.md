@@ -141,7 +141,7 @@ To explore our Final Hardware Implementaion in greater detail, please refer to t
 ## Final Software Implementation
 ![Software Proposal_team201-Main Loop (3)](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/0be1d3f6-65ad-4b9c-baf1-b15735e26527)
 
-To get a more in-depth look at our Final Software Implementation please refer to [Final Software Implementation Document](/Checkpoint3/Final_Softare_Implementation.md)
+To get a more in-depth look at our Final Software Implementation please refer to [Final Software Implementation Document](/Checkpoint3/Final_Software_Implementation.md)
 
 
 ## Recommendations for future students
