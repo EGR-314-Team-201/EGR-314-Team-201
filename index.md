@@ -63,8 +63,7 @@ Full Description of Process
 ## Final Component Selection
 
 ### Humidity Sensor
-![bme280](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/40eadf4d-8bd7-4250-92a1-e538e08349a8)
-
+![bme280](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/4218ed1d-7fee-49be-9b0d-031ca21b2fb2)
 BOSCH BME280 Humidity sensor <br>
 Usable with 1.7-3.6V <br>
 8 pins, 1 second Response Time <br>
