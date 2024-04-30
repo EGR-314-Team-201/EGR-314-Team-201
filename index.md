@@ -1,9 +1,12 @@
 
-# BevRight Home <br>
-![BevRight123](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/149ad34d-1e9e-461f-9bf8-76a27e78c30d)<br>
+# Bevright Home <br>
 
 
-BevRight  
+![Bevrightgreen](https://github.com/EGR-314-Team-201/EGR-314-Team-201/assets/156974933/2ce0591b-60eb-445a-9d97-fcb8faf81895)<br>
+
+
+
+Bevright  
 EGR 314 Team 201 Spring 2024  
 Team Members: Erik Alegria, Hunter Janisch, Joseph Pelle, Houyu Zhang  
 Preparation Date: 2/26/2024  
